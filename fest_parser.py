@@ -4,11 +4,10 @@ import json
 from bs4 import BeautifulSoup
 
 file = 'fest_parser.json'
-
 main_url = 'https://www.fest.md'
 places_route = main_url + '/ru/places'
-page = requests.get(places_route)
 
+page = requests.get(places_route)
 soup = BeautifulSoup(page.content, 'html.parser')
 
 block_items = soup.find_all('div', class_="block-item")
@@ -17,7 +16,7 @@ obj = {}
 js = []
 
 for block_item in block_items:
-    
+
     # find img link
     img_link = block_item.find('a', 'thumb')
     if img_link.has_attr('style'):
