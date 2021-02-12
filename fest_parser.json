@@ -1,0 +1,5686 @@
+[
+    {
+        "img_link": "",
+        "place_link": "/ru/places/restaurants/gasthaus",
+        "name": "GastHaus",
+        "address": "Кишинёв, ул. Кожокарилор 17",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1086_17_thumb.jpg",
+        "place_link": "/ru/places/restaurants/pushkin-1820",
+        "name": "Pushkin 1820",
+        "address": "Кишинёв, ул. 31 Августа, 78",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_945_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/restaurant-moldovenesc",
+        "name": "Restaurant \"Moldovenesc\"",
+        "address": "Кишинев, ул. Пушкин 32 (Sun City этаж 3)",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_946_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/restaurant-bristol",
+        "name": "Restaurant Bristol",
+        "address": "Кишинев, ул. Пушкин 32 (Hotel Bristol Central Park, эт. 5)",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_738_10_thumb.jpg",
+        "place_link": "/ru/places/restaurants/2nd-avenue",
+        "name": "2nd Avenue",
+        "address": "Кишинев, бул.Московский 2",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_833_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/acasa-la-mama",
+        "name": "Acasă la mama",
+        "address": "Кишинев, ул. Петру Рареш, 59",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1139_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/andersen",
+        "name": "Andersen",
+        "address": "Кишинев, ул. Игорь Виеру, 8/3.",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1084_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/ttico-terrace--restaurant",
+        "name": "Àttico Terrace & Restaurant",
+        "address": "Кишинёв, ул. A. Пушкин, 15",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_88_21_thumb.jpg",
+        "place_link": "/ru/places/restaurants/bachus-dava",
+        "name": "Bachus Dava",
+        "address": "Кишинев, ул. Каля Ешилор, 15",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1110_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/baf-bulvar",
+        "name": "Baf Bulvar",
+        "address": "Кишинев, пр-т Траян, 25",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_270_9_thumb.jpg",
+        "place_link": "/ru/places/restaurants/banquet-premium",
+        "name": "Banquet Premium",
+        "address": "Кишинев, бул. Москова, 11/1",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_413_8_thumb.jpg",
+        "place_link": "/ru/places/restaurants/banquet-room",
+        "name": "Banquet Room",
+        "address": "Кишинев, ул. Букурией, 1/6",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_673_1_thumb.png",
+        "place_link": "/ru/places/restaurants/beef-meat-wine",
+        "name": "BEEF. Meat & Wine",
+        "address": "Кишинев, Московский пр-т, 14/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_28_8_thumb.png",
+        "place_link": "/ru/places/restaurants/beer-house",
+        "name": "Beer House",
+        "address": "Кишинев, бул.К.Негруцци, 6/2",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_706_5_thumb.png",
+        "place_link": "/ru/places/pubs/beer-time",
+        "name": "Beer Time",
+        "address": "Кишинев, ул. Вероника Микле, 2A",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_601_8_thumb.png",
+        "place_link": "/ru/places/cafe/bella-via",
+        "name": "Bella Via",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, 4 этаж)",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_827_5_thumb.jpg",
+        "place_link": "/ru/places/bars/beraria-chisinau",
+        "name": "Beraria Chisinau",
+        "address": "Кишинёв, ул. Евгений Дога, 2 (A. Диордица 2)",
+        "type": [
+            "Бар",
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_774_14_thumb.png",
+        "place_link": "/ru/places/pubs/budweiser-pub",
+        "name": "Budweiser Grill & Pub",
+        "address": "Кишинев, ул. Алексей Щусев 93",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_785_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/buffalo-steak-house",
+        "name": "Buffalo Steak House",
+        "address": "Кишинёв, ул. Василе Александри 20",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1147_1_thumb.jpg",
+        "place_link": "/ru/places/fast-food/burger-craft",
+        "name": "Burger Craft",
+        "address": "Кишинев, Иерусалим 7",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_546_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/cafe-de-flore",
+        "name": "Cafe de Flore",
+        "address": "Кишинёв, Балканский путь, 36",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_668_11_thumb.jpg",
+        "place_link": "/ru/places/cafe/caffe-graffiti-urban-caffe",
+        "name": "Caffe Graffiti (Urban Caffe)",
+        "address": "Кишинев, ул. Арборилор, 17/2",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_647_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/capitoles-park",
+        "name": "Capitoles Park",
+        "address": "Кишинев, ул. Мелестиу, 13A",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1146_4_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/casa-della-pizza-chisinau",
+        "name": "Casa della Pizza",
+        "address": "Кишинёв, Михаил Когэлничану 62",
+        "type": [
+            "Пиццерия",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_172_9_thumb.png",
+        "place_link": "/ru/places/restaurants/chateau-grillwine",
+        "name": "Chateau Grill&Wine (Nicolae Costin)",
+        "address": "Кишинев, ул. Николай Костин, 67/1",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_137_1_thumb.png",
+        "place_link": "/ru/places/restaurants/chianti",
+        "name": "CHIANTI",
+        "address": "Кишинев, ул. Михай Еминеску, 50",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_729_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/cielo-lounge--restaurant",
+        "name": "Cielo Lounge & Restaurant",
+        "address": "Кишинёв, Площадь Объединения Княжеств, 3",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_133_8_thumb.jpg",
+        "place_link": "/ru/places/restaurants/club-royal-park",
+        "name": "Club Royal Park",
+        "address": "Кишинев, ул. Трандафирилор 6/2",
+        "type": [
+            "Ресторан",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_961_1_thumb.png",
+        "place_link": "/ru/places/cafe/coffee-house-chinatown",
+        "name": "Coffee House Chinatown",
+        "address": "Кишинев, бул. Дечебал, 99",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "",
+        "place_link": "/ru/places/restaurants/continental-restaurant",
+        "name": "Continental Restaurant",
+        "address": "Кишинёв, ул. Алба Юлия 190/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_480_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/cvin",
+        "name": "Cvin",
+        "address": "Кишинёв, ул. Индепенденцей, 3/2",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_524_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/don-taco",
+        "name": "Don Taco",
+        "address": "Кишинёв, ул. Арборилор, 21 (4 ет.)",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_814_7_thumb.jpg",
+        "place_link": "/ru/places/restaurants/draft-constantin-tanase",
+        "name": "Draft Draft Green",
+        "address": "Кишинев, ул. Константин Тэнасе, 6",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_76_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/dublin",
+        "name": "Dublin Irish Pub",
+        "address": "Кишинев, ул. Булгарэ, 27",
+        "type": [
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_78_12_thumb.jpg",
+        "place_link": "/ru/places/restaurants/el-paso",
+        "name": "El Paso",
+        "address": "Кишинев, ул. Арменяскэ, 10",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_50_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/elegance",
+        "name": "Elegance",
+        "address": "Кишинев, ул. Каля Орхеюлуй, 105/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_936_9_thumb.jpg",
+        "place_link": "/ru/places/restaurants/entourage-restaurant",
+        "name": "Entourage Restaurant",
+        "address": "Кишинев, ул. 31 Августа 1989, 117/1",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_960_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/erik-the-red-gastro-pub",
+        "name": "ERIK the RED Gastro Pub",
+        "address": "Кишинёв, ул. Букурешти, 67",
+        "type": [
+            "Паб",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_286_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/flying-pig",
+        "name": "Flying Pig",
+        "address": "Кишинев, бул. Москова, 9",
+        "type": [
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1158_3_thumb.jpg",
+        "place_link": "/ru/places/cafe/folks-croissants",
+        "name": "FOLK's Croissants",
+        "address": "Молдова, Кишинев, ул. Пушкин, 3",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_884_3_thumb.png",
+        "place_link": "/ru/places/restaurants/forshmak-gastronomic-restaurant",
+        "name": "Forshmak Gastronomic Restaurant",
+        "address": "Кишинев, бул. Негруцци, 2/4",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1141_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/fuior-gourmet",
+        "name": "Fuior Gourmet",
+        "address": "Кишинёв, ул. Пушкина, 30",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_696_8_thumb.png",
+        "place_link": "/ru/places/pubs/gallo-pub",
+        "name": "Gallo Pub",
+        "address": "Кишинев, ул. Албишоара, 78/5",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_854_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/garrison",
+        "name": "Garrison",
+        "address": "Кишинев, шос. Хынчешть, 2",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_83_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/gok-oguz",
+        "name": "Gok-Oguz",
+        "address": "Кишинев, ул. Каля Орхеюлуй, 19A",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_610_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/green-park",
+        "name": "Green Park",
+        "address": "Кишинев, ул. Друмул Виилор, 34/1",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1090_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/greenwood-restaurant",
+        "name": "Greenwood Restaurant",
+        "address": "Кишинев, ул. Михай Садовеану, 19",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_491_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/grill-house",
+        "name": "Grill House",
+        "address": "Кишинёв, ул. Арменяскэ, 24",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1140_2_thumb.png",
+        "place_link": "/ru/places/restaurants/grotta-pub",
+        "name": "Grotta Pub",
+        "address": "Кишинев, Вероника Микле 2А",
+        "type": [
+            "Ресторан",
+            "Пиццерия",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_713_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/tulip",
+        "name": "HOTEL TULIP RESIDENCE & SPA",
+        "address": "17/2, Strada Arheolog Ion Casian-Suruceanu, Chisinau",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_760_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/il-patio-i-planeta-sushi",
+        "name": "IL Патио и Планета Суши",
+        "address": "Кишинев, бул. Штефан чел Маре 103",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_589_1_thumb.jpg",
+        "place_link": "/ru/places/bars/jacks-bar-grill",
+        "name": "Jack's Bar&Grill",
+        "address": "Кишинёв, бд. Негруцци, 2/4",
+        "type": [
+            "Бар",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_177_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/jeraffe",
+        "name": "Jeraffe",
+        "address": "Кишинев, ул. Измаил, 84",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_773_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/jolly-alon-oteli--restoran",
+        "name": "Jolly Alon Отель & Ресторан",
+        "address": "Кишинев, ул. Мария Чиботарь 37",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_931_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/kalamaki",
+        "name": "Kalamaki",
+        "address": "Кишинев, ул. Митрополит Варлаам, 90",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_643_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/karaoke-concert-hall-atrium",
+        "name": "Karaoke Concert Hall Atrium",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_776_2_thumb.png",
+        "place_link": "/ru/places/fast-food/kfc",
+        "name": "KFC",
+        "address": "Кишинев, ул. Арборилор 21 (4 ет.)",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_820_8_thumb.png",
+        "place_link": "/ru/places/fast-food/kfc-1",
+        "name": "KFC",
+        "address": "Кишинёв, бул. Москова, 1/4",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_736_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/kiku-steak--wine",
+        "name": "KiKu Steak & Wine",
+        "address": "Кишинев, бул. Дечебал 72/2",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_742_18_thumb.jpg",
+        "place_link": "/ru/places/restaurants/kozlovna-ceska-pivni-restaurace",
+        "name": "Kozlovna Ceska Pivni Restaurace",
+        "address": "Кишинёв, ул. Пушкина, nr. 24",
+        "type": [
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_128_16_thumb.png",
+        "place_link": "/ru/places/restaurants/la-crisma",
+        "name": "La Crisma",
+        "address": "Кишинев, ул. Хиподромулуй, 9/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/chains/chain_image_8_thumb.jpg",
+        "place_link": "/ru/places/chains/la-placinte",
+        "name": "СетьLa Placinte",
+        "address": "Заведений: 4 La Placinte (Botanica)Кишинев, бул. Дечебал, 82La Placinte (Centru)Кишинев, ул. А. Пушкина 33La Placinte (Ciocana)Кишинев, бул. Мирчя чел Бэтрын, 12/5La Placinte (Telecentru)Кишинев, шос. Хынчешть, 58",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_140_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/la-roma",
+        "name": "La Roma",
+        "address": "Кишинев, ул. Албишоара, 40/1",
+        "type": [
+            "Ресторан",
+            "Картинг",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_672_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/la-sarkis",
+        "name": "La Sarkis",
+        "address": "Кишинёв, ул. A. Матеевич, 113/A",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_171_2_thumb.png",
+        "place_link": "/ru/places/restaurants/la-taifas",
+        "name": "La Taifas",
+        "address": "Кишинев, ул. Букурешть, 67",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_195_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/la-vista",
+        "name": "La Vista",
+        "address": "Кишинев, пр-т Траян, 5/3",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_667_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/laspi",
+        "name": "Laspi",
+        "address": "Кишинёв, пр-т Мирча чел Бэтрын, 9/2",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_602_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/lisboa",
+        "name": "Lisboa",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, 4 этаж)",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_969_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/lo-chef-cafe",
+        "name": "Lo Chef CAFE",
+        "address": "Кишинев, ул. Киев, 6/6",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_79_9_thumb.png",
+        "place_link": "/ru/places/cafe/the-loft",
+        "name": "LOFT Cafe & Restaurant",
+        "address": "Кишинев, ул. Николае Йорга, 3",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_12_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/london-steak-house-1",
+        "name": "London's Steak House",
+        "address": "Кишинев, бул. К.Негруцци, 1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1148_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/mangal",
+        "name": "Mangal",
+        "address": "Кишинёв, Арборилор 17/2",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_327_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/manhattan",
+        "name": "Manhattan",
+        "address": "Кишинев, ул. Чуфля, 1",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_122_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/marrakesh",
+        "name": "Marrakesh",
+        "address": "Кишинев, ул. В.Докучаев, 4",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_606_4_thumb.png",
+        "place_link": "/ru/places/pubs/maximilian",
+        "name": "Maximilian Pub & Grill",
+        "address": "Кишинев, бул. Дечебал, 80/1",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_766_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/me-gusto",
+        "name": "Me Gusto",
+        "address": "Кишинев, ул. Пушкина 10",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_280_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/medina",
+        "name": "Medina",
+        "address": "Кишинев, ул. Мирчя чел Бэтрын, 10/3",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1091_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/mexico-food-factory",
+        "name": "Mexico Food Factory",
+        "address": "Кишинев, бул. Дачия, 44",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_883_1_thumb.png",
+        "place_link": "/ru/places/restaurants/mezzo",
+        "name": "Mezzo",
+        "address": "Кишинев, бул. Кантемир 12",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_768_4_thumb.png",
+        "place_link": "/ru/places/restaurants/mi-piace",
+        "name": "Mi Piace",
+        "address": "Кишинев, ул. Роз 4",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_605_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/mid-point",
+        "name": "MidPoint",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, 4 этаж)",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_679_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/morimoto-sushi",
+        "name": "Morimoto Sushi",
+        "address": "Кишинёв, пр-т Дечебал, 80/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_965_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/murano-cafe--gallery",
+        "name": "Murano Cafe & Gallery",
+        "address": "Кишинёв, ул. Льва Толстого, 24/1",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_881_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/muzcafe-karaoke",
+        "name": "MuzCafe Karaoke",
+        "address": "Кишинев, ул. Сармизеджетуса, 18/5",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1157_3_thumb.png",
+        "place_link": "/ru/places/restaurants/muze-hudozhestvennaya-galereya",
+        "name": "Muze - Художественная галерея",
+        "address": "с. Цыпова, р.  Резина",
+        "type": [
+            "Ресторан",
+            "Музей",
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_966_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/myata-cafe",
+        "name": "MYATA CAFE",
+        "address": "Кишинев, ул. Митрополит Г. Бэнулеску-Бодони, 37/1",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_377_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/novas-banquet-hall",
+        "name": "Novas Banquet Hall",
+        "address": "Сынжера, ул. Аерогэрий, 31",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_200_8_thumb.jpg",
+        "place_link": "/ru/places/restaurants/offline-cafe--lounge-karaoke",
+        "name": "Off'Line Cafe & Lounge Karaoke",
+        "address": "Кишинев, ул. Каля Ешилор, 2/5",
+        "type": [
+            "Ресторан",
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_764_5_thumb.jpg",
+        "place_link": "/ru/places/pubs/old-bus-gastropub",
+        "name": "OLD BUS GastroPub",
+        "address": "Кишинев, ул. Александру чел Бун 83 (пешеходная зона)",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_830_2_thumb.png",
+        "place_link": "/ru/places/restaurants/oliva-1",
+        "name": "Oliva (Botanica)",
+        "address": "Кишинев, бул. Дечебал, 139",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_683_5_thumb.png",
+        "place_link": "/ru/places/restaurants/oliva",
+        "name": "Oliva (Rîșcani)",
+        "address": "Кишинев, Московский пр-т, 5",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1138_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/oliva-verde",
+        "name": "Oliva Verde",
+        "address": "Chisinau, str. Șciusev, 47",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1024_8_thumb.png",
+        "place_link": "/ru/places/restaurants/oro-lounge",
+        "name": "ORO Lounge",
+        "address": "Кишинёв, бул. Дечебал 34",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_825_6_thumb.png",
+        "place_link": "/ru/places/restaurants/osho-barkitchen",
+        "name": "OSHO bar&kitchen",
+        "address": "Кишинев, бул. Дечебал, 7/1",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1132_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/panifico-pizza",
+        "name": "Panifico Pizza",
+        "address": "Кишинев, К. Брынкушь, 110",
+        "type": [
+            "Ресторан",
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1133_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/panifico-pizza-mall",
+        "name": "Panifico Pizza",
+        "address": "Кишинёв, ул. Арборилор 21, Shopping Malldova, food court, эт. 4",
+        "type": [
+            "Ресторан",
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_637_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/panna-cotta",
+        "name": "Panna Cotta",
+        "address": "Кишинев, ул. Митрополит Г. Бэнулеску-Бодони, 22",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_984_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/panorama-cafe",
+        "name": "Panorama Cafe",
+        "address": "Кишинев, ул. Онисифор Гибу 1/1",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_897_1_thumb.png",
+        "place_link": "/ru/places/restaurants/park-avenue",
+        "name": "Park Avenue",
+        "address": "Кишинев, ул. Дечебал 6/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_117_7_thumb.jpg",
+        "place_link": "/ru/places/restaurants/pegas",
+        "name": "Pegas",
+        "address": "Кишинев, ул. Албишоара, 20/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_648_12_thumb.png",
+        "place_link": "/ru/places/cafe/pink-martini",
+        "name": "Pink Martini",
+        "address": "Кишинев, бул. К.Негруцци, 3",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_543_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/pivnushka-a-95",
+        "name": "Pivnushka A-95",
+        "address": "Кишинёв, ул.Михай Витязу, 20",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_932_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/porter-yard",
+        "name": "Porter YARD",
+        "address": "Кодру ул. Костюжень 6/3",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1144_1_thumb.png",
+        "place_link": "/ru/places/restaurants/private-rooms",
+        "name": "Private Rooms",
+        "address": "Кишинёв, ул. Пушкина, 32",
+        "type": [
+            "Ресторан",
+            "Клуб",
+            "Кинотеатр"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_749_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/q-bar",
+        "name": "Q Bar",
+        "address": "Кишинёв, ул. 31Августа 1989, 93А",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1046_6_thumb.png",
+        "place_link": "/ru/places/cafe/real-urban-food",
+        "name": "Real Urban Food",
+        "address": "Кишинев, Ул. Николае Тестемитяну 29/5",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1149_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/red-house",
+        "name": "Red House",
+        "address": "с.Хорешти, Яловень,",
+        "type": [
+            "Ресторан",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_959_1_thumb.png",
+        "place_link": "/ru/places/restaurants/restaurant--bar-kotobuki",
+        "name": "Restaurant & Bar Kotobuki",
+        "address": "Кишинев, ул. Михай Еминеску, 44/1",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_927_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/restaurant-complement",
+        "name": "Restaurant Complement",
+        "address": "Кишинев, ул. Армянская 28",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_739_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/rooms-restaurant--more",
+        "name": "ROOMS Restaurant & More",
+        "address": "Кишинёв, ул. Киев 16/1",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_675_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/sakura-sushi-bar-atrium",
+        "name": "Sakura Sushi - Bar",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, IV эт.)",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_676_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/sakura-sushi-bar-jumbo",
+        "name": "Sakura Sushi - Bar",
+        "address": "Кишинёв, пр-т Дечебал, 23 (Jumbo)",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_899_3_thumb.png",
+        "place_link": "/ru/places/restaurants/salat-restaurantfree-flow",
+        "name": "SALAT Restaurant & Free Flow 1",
+        "address": "Кишинев, бул. Дачия, 36",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_956_1_thumb.png",
+        "place_link": "/ru/places/restaurants/salat-restaurant--free-flow-2",
+        "name": "SALAT Restaurant & Free Flow 2",
+        "address": "Кишинев, ул. Буребиста 40/2",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_957_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/salat-restaurant--free-flow-3",
+        "name": "SALAT Restaurant & Free Flow 3",
+        "address": "Кишинёв, ул. Алба Юлия 206",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_61_12_thumb.jpg",
+        "place_link": "/ru/places/restaurants/salcioara",
+        "name": "Salcioara",
+        "address": "Кишинев, ул. А.Пушкин, 39",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_492_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/san-mari",
+        "name": "San Mari",
+        "address": "Кишинёв, ул. Ион Инкулец, 105",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_185_1_thumb.png",
+        "place_link": "/ru/places/restaurants/seasons-brasserie",
+        "name": "Seasons Brasserie",
+        "address": "Кишинев, ул. Арборилор, 21 (Мalldova, эт.4)",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_661_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/select-banquet-hall",
+        "name": "SELECT Banquet Hall",
+        "address": "Кишинёв, пр-т Мирча чел Бэтрын, 21",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_633_6_thumb.jpg",
+        "place_link": "/ru/places/pubs/sherlock-holmes",
+        "name": "Sherlock Holmes Pub",
+        "address": "Кишинёв, ул. Индепенденцей, 5a",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_358_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/silver-house",
+        "name": "Silver House",
+        "address": "Кишинев, ул. Дойна ши Ион Алдя-Теодорович, 12/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_320_7_thumb.jpg",
+        "place_link": "/ru/places/restaurants/sky-club",
+        "name": "Sky Bar",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1089_1_thumb.png",
+        "place_link": "/ru/places/pubs/staropramen-pub",
+        "name": "Staropramen Pub",
+        "address": "Кишинев, бул. Москова, 14/1",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_810_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/vox",
+        "name": "Sunstroke Club",
+        "address": "Кишинев, бул. Штефан чел Маре, 6",
+        "type": [
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_926_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/taj-mahal-continental-restaurant",
+        "name": "Taj Mahal Continental Restaurant",
+        "address": "Кишинев, ул. Мелестиу 20/5",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_636_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/tbilisi",
+        "name": "Tbilisi",
+        "address": "Кишинев, бул. Штефан чел Маре, 69",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1142_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/teatrul-gastronomic",
+        "name": "Teatrul Gastronomic",
+        "address": "Кишинёв, Штефан чел Маре, 103",
+        "type": [
+            "Ресторан",
+            "N/A"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_953_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/teatrum",
+        "name": "Teatrum",
+        "address": "Кишинёв, ул.Букурешть, 68",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_836_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/the-most",
+        "name": "THE MOST",
+        "address": "Кишинёв, ул. Арборилор, 17/1",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1155_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/the-penthouse-cafe",
+        "name": "The Penthouse Cafe",
+        "address": "103 / 2, Stefan cel Mare Str. Chisinau",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_540_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/tiramisu-sakura",
+        "name": "Tiramisu & Sakura",
+        "address": "Кишинёв, ул. Арборилор, 7",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1028_1_thumb.png",
+        "place_link": "/ru/places/fast-food/torro-burgers-botanika",
+        "name": "Torro Burgers (Ботаника)",
+        "address": "Кишинев, ул. Трандафирилор, 43",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1004_8_thumb.png",
+        "place_link": "/ru/places/fast-food/torro-burgers-rishkani",
+        "name": "Torro Burgers (Рышкановка)",
+        "address": "Кишинев, ул. Мирон Костин, 13/1",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1085_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/torro-burgers-rishkani-2",
+        "name": "Torro Burgers (Рышкань)",
+        "address": "Кишинёв, ул. Киев, 9",
+        "type": [
+            "Ресторан",
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1005_16_thumb.png",
+        "place_link": "/ru/places/fast-food/torro-burgers-tsentr",
+        "name": "Torro Burgers (Центр)",
+        "address": "Кишинев, ул. Пушкина 12",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1006_16_thumb.png",
+        "place_link": "/ru/places/fast-food/torro-burgers-chekani",
+        "name": "Torro Burgers (Чеканы)",
+        "address": "Кишинёв, ул. Алеку Руссо, 65/1",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_750_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/torro-grill",
+        "name": "Torro Grill",
+        "address": "Кишинев, ул Димо 28/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_935_2_thumb.jpg",
+        "place_link": "/ru/places/bars/traktir-la-gratar",
+        "name": "Traktir La Gratar",
+        "address": "Кишинёв, бл. Дечебал 20",
+        "type": [
+            "Бар",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_180_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/trattoria-della-nonna-botanika",
+        "name": "Trattoria Della Nonna (Ботаника)",
+        "address": "Кишинев, ул. Арборилор, 21 (4эт.)",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_786_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/trattoria-della-nonna-rishkanovka",
+        "name": "Trattoria Della Nonna (Рышкановка)",
+        "address": "Кишинев, бул. Москова 17/4",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_121_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/trattoria-della-nonna-tsentr",
+        "name": "Trattoria Della Nonna (Центр)",
+        "address": "Кишинев, ул. М.Когэлничяну, 62",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_843_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/trattoria-della-nonna-ciocana",
+        "name": "Trattoria Della Nonna (Чеканы)",
+        "address": "Кишинев, ул. Михаил Садовяну 20/1",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1145_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/il-forno",
+        "name": "Trattoria ilForno",
+        "address": "Кишинев, ул. А. Щусева, 98.",
+        "type": [
+            "Ресторан",
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1059_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/two-bucks-pub",
+        "name": "Two Bucks Pub",
+        "address": "Кишинёв ул.Игорь Виеру 2/3 ул.",
+        "type": [
+            "Паб",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_754_1_thumb.png",
+        "place_link": "/ru/places/restaurants/u-cehov-dobra-restaurance",
+        "name": "uCehov dobra restaurance",
+        "address": "Кишинев, бул. Ренаштерий Национале 5",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_767_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/uptown-cafe",
+        "name": "Uptown Cafe",
+        "address": "Кишинев, ул.Пушкина 10",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_781_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/vasabi-benulesku-bodoni",
+        "name": "Vasabi (Бэнулеску-Бодони)",
+        "address": "Кишинёв, ул.Бэнулеску-Бодони 4",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_782_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/vasabi-dachiya",
+        "name": "Vasabi (Дачия)",
+        "address": "Кишинёв, бул. Дачия 4/1",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_849_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/vasabi-moskova",
+        "name": "Vasabi (Москова)",
+        "address": "Кишинёв, бул. Москова, 1/4",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_42_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/vatra-neamului",
+        "name": "Vatra Neamului",
+        "address": "Кишинев, ул. А.Пушкин, 20B",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_256_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/velgar",
+        "name": "Velgar",
+        "address": "Кишинев, ул. Митрополит Варлаам, 84",
+        "type": [
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_541_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/versenz-cafe",
+        "name": "Versenz",
+        "address": "Кишинёв, бл. Москва, 15/5",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_822_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/view-caf--restaurant",
+        "name": "View Café & Restaurant",
+        "address": "Кишинев, ул.Ми Еминеску, 55",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_472_7_thumb.png",
+        "place_link": "/ru/places/restaurants/vila-noua",
+        "name": "Vila Noua",
+        "address": "Кишинёв, ул. Джинта Латинэ, 5/3",
+        "type": [
+            "Ресторан",
+            "Кафе",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_13_8_thumb.jpg",
+        "place_link": "/ru/places/restaurants/villa-garden",
+        "name": "VILLA Garden",
+        "address": "Кишинев, бул. Дечебал, 16",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1007_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/wine-gogh",
+        "name": "Wine Gogh",
+        "address": "Кишинев, ул. А.Пушкин, 35",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1025_3_thumb.png",
+        "place_link": "/ru/places/restaurants/yammino",
+        "name": "Yammino",
+        "address": "Кишинев, ул. Николай Тестемицану 29/5",
+        "type": [
+            "Ресторан",
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_947_1_thumb.png",
+        "place_link": "/ru/places/cafe/z-cafe",
+        "name": "Z Cafe",
+        "address": "Кишинёв, ул. 31Августа 1989, 103",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_900_10_thumb.jpg",
+        "place_link": "/ru/places/restaurants/zaxi",
+        "name": "Zaxi",
+        "address": "Кишинев, ул. Варлаам 77",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_101_11_thumb.png",
+        "place_link": "/ru/places/restaurants/golf-klub",
+        "name": "Гольф-Клуб",
+        "address": "Кишинев, ул. Каля Ешилор, 20",
+        "type": [
+            "Ресторан",
+            "Спорт - Разное"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_202_2_thumb.png",
+        "place_link": "/ru/places/sweet-shops/delis-danzh",
+        "name": "Делис Д'анж",
+        "address": "Кишинев, ул. 31 Августа 1989, 117/2",
+        "type": [
+            "Кондитерская",
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_59_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/eli-pili",
+        "name": "Ели-Пили",
+        "address": "Кишинев, ул. Букурешть, 68",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_114_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/zolotoy-olen",
+        "name": "Золотой Олень",
+        "address": "Кишинев, ул. В.Александри, 113",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_41_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/kaktus",
+        "name": "Кактус",
+        "address": "Кишинев, ул. Арменяскэ, 41",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_32_7_thumb.jpg",
+        "place_link": "/ru/places/restaurants/karavan",
+        "name": "Караван",
+        "address": "Кишинев, ул. Михай Еминеску, 64",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_46_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/kartal",
+        "name": "Картал",
+        "address": "Кишинев, ул. А.Пушкин, 52",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_201_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/pani-pit",
+        "name": "Пани Пит",
+        "address": "Кишинев, ул. 31 Августа 1989, 115",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_752_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/poyana-nukuluy",
+        "name": "Пояна Нукулуй",
+        "address": "Кишинев,ул.Студенческая 1/6",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_1_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/prival-dakov",
+        "name": "Привал Даков",
+        "address": "Кишинев, ул. Валя Кручий, 13",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_709_7_thumb.jpg",
+        "place_link": "/ru/places/cafe/propaganda",
+        "name": "Пропаганда",
+        "address": "Кишинев, ул. А. Щусева, 70",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_770_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/san-sushi",
+        "name": "Сан суши",
+        "address": "Ул. Куза Водэ 5/5",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_184_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/sosnoviy-bor",
+        "name": "Сосновый Бор",
+        "address": "Кишинев, ул. Валя Кручий, 7",
+        "type": [
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_570_8_thumb.png",
+        "place_link": "/ru/places/clubs/goa-territory-1",
+        "name": "Goa Territory",
+        "address": "Ватра, Гидигич",
+        "type": [
+            "Клуб",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1098_2_thumb.jpg",
+        "place_link": "/ru/places/clubs/acapella-karaoke-club",
+        "name": "Acapella Karaoke Club",
+        "address": "Кишинев, бул. Мирча чел Бэтрин 10/3",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_118_5_thumb.jpg",
+        "place_link": "/ru/places/clubs/art-club-karaoke",
+        "name": "Art Club Karaoke",
+        "address": "Кишинев, бул. К.Негруцци, 2/4",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_938_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/backstage-music-hall",
+        "name": "Backstage Music Hall",
+        "address": "Кишинёв, бул. Москова, 17/3",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1041_1_thumb.png",
+        "place_link": "/ru/places/bars/bandabar",
+        "name": "BandabaR",
+        "address": "Кишинёв, ул. М Еминеску 55,",
+        "type": [
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1131_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/baroque-night-club",
+        "name": "Baroque Night Club",
+        "address": "Кишинев, Каля Мошилор 18",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_874_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/black-chocolate",
+        "name": "black CHOCOLATE",
+        "address": "Кишинев, ул. Алеку Руссо, 15",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_498_4_thumb.jpg",
+        "place_link": "/ru/places/clubs/chicago",
+        "name": "Chicago",
+        "address": "Кишинёв, ул. Василе Александри , 139",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_618_6_thumb.jpg",
+        "place_link": "/ru/places/clubs/chocolate-karaoke",
+        "name": "Chocolate Karaoke Club",
+        "address": "Кишинев, бд. Дечебал, 80/1",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_338_5_thumb.jpg",
+        "place_link": "/ru/places/clubs/club-rai",
+        "name": "Club Rai",
+        "address": "Кишинев, ул. Василе Лупу, 30",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_273_11_thumb.jpg",
+        "place_link": "/ru/places/clubs/decadance-club-karaoke",
+        "name": "Decadance Club Karaoke",
+        "address": "Кишинев, ул. Албишоара, 44/1",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_844_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/drugoe-mesto",
+        "name": "Drugoe Mesto",
+        "address": "Кишинёв, бул. Штефан чел Маре 137",
+        "type": [
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_936_9_thumb.jpg",
+        "place_link": "/ru/places/restaurants/entourage-restaurant",
+        "name": "Entourage Restaurant",
+        "address": "Кишинев, ул. 31 Августа 1989, 117/1",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_406_13_thumb.jpg",
+        "place_link": "/ru/places/clubs/famous",
+        "name": "Famous Club",
+        "address": "Кишинев, ул. Букурией, 1/6",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_449_7_thumb.jpg",
+        "place_link": "/ru/places/clubs/flamingo-night-club",
+        "name": "Flamingo Night Club",
+        "address": "Кишинев, ул. Тэбэкэрия Веке, 23",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1075_1_thumb.jpg",
+        "place_link": "/ru/places/bars/gaz-karaoke--night-club",
+        "name": "GAZ karaoke & night club",
+        "address": "Кишинев, ул. Дечебал 23/1",
+        "type": [
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_875_3_thumb.jpg",
+        "place_link": "/ru/places/clubs/godzilla-karaoke-club--lounge-terrace",
+        "name": "Godzilla Karaoke Club & Lounge Terrace",
+        "address": "Кишинёв, бул. Дачия,18/1",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1096_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/gold-bar",
+        "name": "Gold Bar",
+        "address": "Кишинев, Дечебал 2",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1076_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/karaoke-club-uptown",
+        "name": "Karaoke Club UpTown",
+        "address": "Кишинев, бул. Куза Вода 44",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_643_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/karaoke-concert-hall-atrium",
+        "name": "Karaoke Concert Hall Atrium",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_878_1_thumb.png",
+        "place_link": "/ru/places/bars/karaoke-home-club",
+        "name": "Karaoke Home Club",
+        "address": "Кишинев, ул. Митрополит Варлаам, 63/23",
+        "type": [
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_924_4_thumb.jpg",
+        "place_link": "/ru/places/bars/karaoke-krokus",
+        "name": "Karaoke Krokus",
+        "address": "Кишинев, бд. Дечебал, 80/1",
+        "type": [
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_518_5_thumb.jpg",
+        "place_link": "/ru/places/pubs/kira-s-club",
+        "name": "Kira's Club",
+        "address": "Кишинёв, ул. В.Микле, 7",
+        "type": [
+            "Паб",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_881_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/muzcafe-karaoke",
+        "name": "MuzCafe Karaoke",
+        "address": "Кишинев, ул. Сармизеджетуса, 18/5",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_200_8_thumb.jpg",
+        "place_link": "/ru/places/restaurants/offline-cafe--lounge-karaoke",
+        "name": "Off'Line Cafe & Lounge Karaoke",
+        "address": "Кишинев, ул. Каля Ешилор, 2/5",
+        "type": [
+            "Ресторан",
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1024_8_thumb.png",
+        "place_link": "/ru/places/restaurants/oro-lounge",
+        "name": "ORO Lounge",
+        "address": "Кишинёв, бул. Дечебал 34",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_648_12_thumb.png",
+        "place_link": "/ru/places/cafe/pink-martini",
+        "name": "Pink Martini",
+        "address": "Кишинев, бул. К.Негруцци, 3",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1159_1_thumb.png",
+        "place_link": "/ru/places/clubs/piranha",
+        "name": "Piranha",
+        "address": "Кишинев, ул. М.Еминеску, 55",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_933_2_thumb.png",
+        "place_link": "/ru/places/bars/polo-house",
+        "name": "Polo House",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Бар",
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1144_1_thumb.png",
+        "place_link": "/ru/places/restaurants/private-rooms",
+        "name": "Private Rooms",
+        "address": "Кишинёв, ул. Пушкина, 32",
+        "type": [
+            "Ресторан",
+            "Клуб",
+            "Кинотеатр"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_102_8_thumb.jpg",
+        "place_link": "/ru/places/clubs/rust-club-cafe",
+        "name": "Rust Club Cafe",
+        "address": "Кишинев, бул. Мирча чел Бэтрын, 3A",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1127_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/savage-club-karaoke",
+        "name": "SAVAGE Club Karaoke",
+        "address": "Кишинев, ул Исмаил 98/4",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_320_7_thumb.jpg",
+        "place_link": "/ru/places/restaurants/sky-club",
+        "name": "Sky Bar",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_810_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/vox",
+        "name": "Sunstroke Club",
+        "address": "Кишинев, бул. Штефан чел Маре, 6",
+        "type": [
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_840_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/tao-karaoke--nightclub",
+        "name": "TAO Karaoke & NightClub",
+        "address": "Кишинев, бул. Мирча чел Бэтрын 7/1",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_404_7_thumb.jpg",
+        "place_link": "/ru/places/clubs/the-albion-territory",
+        "name": "The Albion Territory",
+        "address": "Кишинев, ул. А.Пушкин, 22",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_994_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/upanddown-club",
+        "name": "Upanddown Club",
+        "address": "Кишинёв, ул. Влайку Пыркэлаб 52",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1099_1_thumb.jpg",
+        "place_link": "/ru/places/clubs/vogue-karaoke--lounge",
+        "name": "Vogue Karaoke & Lounge",
+        "address": "Кишинев, ул. Албишоара 84/9",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_329_10_thumb.jpg",
+        "place_link": "/ru/places/clubs/voice-vocal-club",
+        "name": "Voice Vocal Club",
+        "address": "Кишинев, бул. Москова, 15/4",
+        "type": [
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_753_12_thumb.jpg",
+        "place_link": "/ru/places/cafe/kafe-fanconi",
+        "name": "Кафе Fanconi",
+        "address": "Кишинев, бул. Ренаштерии Национале 5",
+        "type": [
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_206_2_thumb.png",
+        "place_link": "/ru/places/cafe/muzkafe-44",
+        "name": "Музкафе'44",
+        "address": "Кишинев, ул. Албишоара, 44",
+        "type": [
+            "Кафе",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_570_8_thumb.png",
+        "place_link": "/ru/places/clubs/goa-territory-1",
+        "name": "Goa Territory",
+        "address": "Ватра, Гидигич",
+        "type": [
+            "Клуб",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_997_2_thumb.png",
+        "place_link": "/ru/places/sports-various/orheiland",
+        "name": "OrheiLand",
+        "address": "Orhei, ул. Киев 16/1",
+        "type": [
+            "Спорт - Разное",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_576_5_thumb.png",
+        "place_link": "/ru/places/swimming-pools/megapolis-mall-1",
+        "name": "Бассейн Megapolis",
+        "address": "Кишинев, ул. М. Садовяну 42/6",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1126_2_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/aqua-life",
+        "name": "Aqua Life",
+        "address": "Каушанский район, Еминеску 1А",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_631_8_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/aqua-magic",
+        "name": "Aqua Magic",
+        "address": "с. Сочитень, р. Яловень",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1156_3_thumb.jpg",
+        "place_link": "/ru/",
+        "name": "Cetatea Albă Răzeni",
+        "address": "Răzeni 7727 Razeni, Moldova",
+        "type": [
+            "N/A",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_133_8_thumb.jpg",
+        "place_link": "/ru/places/restaurants/club-royal-park",
+        "name": "Club Royal Park",
+        "address": "Кишинев, ул. Трандафирилор 6/2",
+        "type": [
+            "Ресторан",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1152_4_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/colina-marului",
+        "name": "Colina Marului",
+        "address": "ул. Кишинэулуй, Мерени",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_563_1_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/dinamo-filiala",
+        "name": "Dinamo (filiala)",
+        "address": "Кишинев, ул. Г.Асаки, 23A",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_565_4_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/ecosport-gym",
+        "name": "ECOSPORT GYM",
+        "address": "Кишинев, ул. А.Матеевич, 113/2",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_801_8_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/rai-project",
+        "name": "Fanconi Riviera",
+        "address": "Кишинев, ул. Гидигич 5",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_566_1_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/fitness-center-nr2",
+        "name": "Fitness Center nr.2",
+        "address": "Кишинев, ул. Алеку Руссо, 14/1",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_567_3_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/fitness-doza-nr5",
+        "name": "Fitness Doza nr.5",
+        "address": "Кишинев, ул. Ион Крянгэ, 49",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_568_3_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/fitness-doza-vip",
+        "name": "Fitness Doza vip",
+        "address": "Кишинев, ул. Ион Крянгэ, 62",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_861_1_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/hotel-diplomat-deleted",
+        "name": "Hotel Diplomat",
+        "address": "Кишинев, ул. Лакулуй, 39",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_571_5_thumb.png",
+        "place_link": "/ru/places/swimming-pools/hotel-prezident",
+        "name": "Hotel President",
+        "address": "Кишинев, Бул. Дачия, 58/5",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_395_5_thumb.jpg",
+        "place_link": "/ru/places/sports-various/niagara-club",
+        "name": "Niagara Fitness Club",
+        "address": "Кишинев, ул. Гидигич, 5",
+        "type": [
+            "Спорт - Разное",
+            "Американский бильярд",
+            "Большой теннис",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_577_5_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/palatul-sporturilor-al-usm",
+        "name": "Palatul Sporturilor al USM",
+        "address": "Кишинэу, ул.Измаил, 1",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_857_5_thumb.png",
+        "place_link": "/ru/places/swimming-pools/premium-park",
+        "name": "Premium Park",
+        "address": "Кишинёв, Тогатин",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1149_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/red-house",
+        "name": "Red House",
+        "address": "с.Хорешти, Яловень,",
+        "type": [
+            "Ресторан",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_573_1_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/royal-park",
+        "name": "Royal Park",
+        "address": "Кишинёв, ул. Трандафирилор, 6/2",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_859_1_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/sky-land-camping-resort",
+        "name": "Sky Land Camping & Resort",
+        "address": "с,Грушево, р.Криулень",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1153_2_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/sv-club-hotelresor",
+        "name": "SV Club Hotel&Resor",
+        "address": "R2, Но́вые Ане́ны, 6536 Тодирешты",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_855_1_thumb.png",
+        "place_link": "/ru/places/swimming-pools/tree-house",
+        "name": "Tree House",
+        "address": "Ваду-луй-Водэ, рядом с Тогатин",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1150_1_thumb.png",
+        "place_link": "/ru/places/swimming-pools/tree-house-camping--resort",
+        "name": "Tree House Camping & Resort",
+        "address": "шос. Тогатин, ул Вадул луй Водэ",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_999_3_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/turnul-alb",
+        "name": "Turnul ALB",
+        "address": "Яловенский район, с. Костешты",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1125_1_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/white-park",
+        "name": "White Park",
+        "address": "с. Мерень, р. Анений-Ной",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1151_6_thumb.jpg",
+        "place_link": "/ru/",
+        "name": "Zavoiul Nistrului Eco Village",
+        "address": "or. Soroca s. Egoreni",
+        "type": [
+            "N/A",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_579_1_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/consocivil-bazinul-inefs",
+        "name": "Бассейн \"Consocivil\"",
+        "address": "Кишинев, ул.31 Августа, 78",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_864_1_thumb.png",
+        "place_link": "/ru/places/swimming-pools/aliten",
+        "name": "Бассейн Aliten",
+        "address": "Кишинев, ул. Каля Орхеюлуй, 1",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_863_3_thumb.png",
+        "place_link": "/ru/places/swimming-pools/basseyn-energy-fitness",
+        "name": "Бассейн Energy Fitness",
+        "address": "Кишинёв, бул. Дачия, 31/1",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_902_5_thumb.png",
+        "place_link": "/ru/places/swimming-pools/fitnessone",
+        "name": "Бассейн Fitness One",
+        "address": "Кишинев,  ул. Гренобле 259/16",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_860_5_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/forest-club",
+        "name": "Бассейн Forest Club",
+        "address": "с.Кэрбуна, р.Яловень",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_865_2_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/shadow-hotel",
+        "name": "Бассейн Shadow Hotel",
+        "address": "Кишинев, ул. Петрэрией, 9/1",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_862_1_thumb.png",
+        "place_link": "/ru/places/swimming-pools/basseyn-sport-park",
+        "name": "Бассейн Sport Park",
+        "address": "Кишинёв, ул. Димо, 32",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_866_4_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/villa-kalyan-hotel",
+        "name": "Бассейн VILLA Kalyan",
+        "address": "Кишинев, ул. Casian Suruceanu, 15/1",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_788_6_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/basseyn-turisticheskiy-kompleks-kosteshti",
+        "name": "Бассейн Туристический комплекс \"Костешть\"",
+        "address": "с. Костешть, р.Яловены",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_841_1_thumb.jpg",
+        "place_link": "/ru/places/swimming-pools/belye-parusa",
+        "name": "Белые паруса",
+        "address": "Ватра, Гидигич",
+        "type": [
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_997_2_thumb.png",
+        "place_link": "/ru/places/sports-various/orheiland",
+        "name": "OrheiLand",
+        "address": "Orhei, ул. Киев 16/1",
+        "type": [
+            "Спорт - Разное",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_395_5_thumb.jpg",
+        "place_link": "/ru/places/sports-various/niagara-club",
+        "name": "Niagara Fitness Club",
+        "address": "Кишинев, ул. Гидигич, 5",
+        "type": [
+            "Спорт - Разное",
+            "Американский бильярд",
+            "Большой теннис",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "",
+        "place_link": "/ru/places/sports-various/tracia-futbolinaya-shkola",
+        "name": "Tracia - футбольная школа",
+        "address": "Кишинев, Testemiteanu 24/5.",
+        "type": [
+            "Спорт - Разное"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_101_11_thumb.png",
+        "place_link": "/ru/places/restaurants/golf-klub",
+        "name": "Гольф-Клуб",
+        "address": "Кишинев, ул. Каля Ешилор, 20",
+        "type": [
+            "Ресторан",
+            "Спорт - Разное"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_554_1_thumb.jpg",
+        "place_link": "/ru/places/sports-various/skalodrom-aventura",
+        "name": "Скалодром \"Aventura\"",
+        "address": "Кишинев, ул. Гиочеилор, 1",
+        "type": [
+            "Спорт - Разное"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_272_2_thumb.jpg",
+        "place_link": "/ru/places/sports-various/stadion-zimbru-1",
+        "name": "Стадион \"Зимбру\"",
+        "address": "Кишинев, ул. Бутукулуй,1",
+        "type": [
+            "Спорт - Разное",
+            "Большой теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1086_17_thumb.jpg",
+        "place_link": "/ru/places/restaurants/pushkin-1820",
+        "name": "Pushkin 1820",
+        "address": "Кишинёв, ул. 31 Августа, 78",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1117_10_thumb.png",
+        "place_link": "/ru/places/cafe/ruf",
+        "name": "RUF - Real Urban Food",
+        "address": "Кишинёв, ул. Николае Тестемицану, 29/5",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_263_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/44-jazz-cafe",
+        "name": "\"44\"-Jazz Cafe",
+        "address": "Кишинев, ул. Албишоара, 44",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_964_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/anticafe-co-working",
+        "name": "AntiCafe Co-working",
+        "address": "Кишинев, ул. Штефан чел Маре 6",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_601_8_thumb.png",
+        "place_link": "/ru/places/cafe/bella-via",
+        "name": "Bella Via",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, 4 этаж)",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_934_1_thumb.png",
+        "place_link": "/ru/places/cafe/biorganic-cafe",
+        "name": "BIOrganic Cafe",
+        "address": "Кишинев, ул. Михай Еминеску, 39A",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_53_2_thumb.jpg",
+        "place_link": "/ru/places/sweet-shops/bisquit",
+        "name": "Bisquit",
+        "address": "Кишинев, бул. Москова, 20",
+        "type": [
+            "Кондитерская",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_759_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/blinoff-2",
+        "name": "Blinoff Street",
+        "address": "Кишинев, ул. Арборилор 21, 4 этаж (Shopping MallDova)",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_780_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/bouchee",
+        "name": "Bouchee",
+        "address": "Кишинев, ул. Штефан чел Маре 67",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_831_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/cabinet-cafe",
+        "name": "Cabinet Cafe",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium эт.4)",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_982_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/cafe-mrgreen",
+        "name": "Cafe Mr.Green",
+        "address": "Кишинев, ул. Пьетрарилор 2/1",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_87_3_thumb.jpg",
+        "place_link": "/ru/places/cafe/cafe-vector",
+        "name": "Cafe Vector",
+        "address": "Кишинев, ул. В. Александри, 27",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_668_11_thumb.jpg",
+        "place_link": "/ru/places/cafe/caffe-graffiti-urban-caffe",
+        "name": "Caffe Graffiti (Urban Caffe)",
+        "address": "Кишинев, ул. Арборилор, 17/2",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1077_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/cats-cafe",
+        "name": "Cats Cafe",
+        "address": "Кишинев, ул. Пушкина 32, (Sun City, 4 этаж)",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_529_5_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/celentano-3",
+        "name": "Ceretto cafe",
+        "address": "Кишинёв, бл. Мирчеа чел Бэтрьн, 4/6",
+        "type": [
+            "Пиццерия",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_595_6_thumb.jpg",
+        "place_link": "/ru/places/cafe/coffee-break",
+        "name": "Coffee Break",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, 2 этаж)",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_961_1_thumb.png",
+        "place_link": "/ru/places/cafe/coffee-house-chinatown",
+        "name": "Coffee House Chinatown",
+        "address": "Кишинев, бул. Дечебал, 99",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_352_9_thumb.jpg",
+        "place_link": "/ru/places/cafe/coffee-house-oriental",
+        "name": "Coffee House Oriental",
+        "address": "Кишинев, ул. Алеку Руссо, 1",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1050_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/coffeemolka",
+        "name": "CoffeeMolka",
+        "address": "Кишинев ул. Октавиан Гога 26",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_751_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/coral",
+        "name": "Coral",
+        "address": "Кишинев, бд. Московский 23/1",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_532_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/creme-de-la-creme",
+        "name": "Creme de la Creme",
+        "address": "Кишинёв, ул. Александру чел Бун, 98А",
+        "type": [
+            "Кафе",
+            "Кондитерская"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_517_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/danielle",
+        "name": "Danielle",
+        "address": "Кишинёв, ул. Л. Деляну, 7/6",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_81_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/davids",
+        "name": "David's",
+        "address": "Кишинев, ул. Н.Тестемицану, 29/4",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_688_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/deli-lot",
+        "name": "Deli - Lot",
+        "address": "Кишинев, ул. Н. Димо, 32",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_103_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/delius",
+        "name": "Delius",
+        "address": "Кишинев, ул. Индепенденцей, 36/1",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_666_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/do-cafe",
+        "name": "Do Cafe",
+        "address": "Кишинёв, пр-т Мирча чел Бэтрын, 23/3",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_654_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/dona-tina",
+        "name": "Dona Tina",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_844_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/drugoe-mesto",
+        "name": "Drugoe Mesto",
+        "address": "Кишинёв, бул. Штефан чел Маре 137",
+        "type": [
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_380_14_thumb.jpg",
+        "place_link": "/ru/places/cafe/el-greco",
+        "name": "El Greco Lounge Cafe",
+        "address": "Кишинев, ул. В. Александри, 86",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_510_1_thumb.jpeg",
+        "place_link": "/ru/places/cafe/foisor-1",
+        "name": "Foisor",
+        "address": "Кишинёв, ул. Колумна, 104",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_511_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/foisor-2",
+        "name": "Foisor",
+        "address": "Кишинёв, ул. Алеку Руссо, 57/3",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1158_3_thumb.jpg",
+        "place_link": "/ru/places/cafe/folks-croissants",
+        "name": "FOLK's Croissants",
+        "address": "Молдова, Кишинев, ул. Пушкин, 3",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_834_9_thumb.jpg",
+        "place_link": "/ru/places/cafe/fratelli-restobar",
+        "name": "Fratelli RestoBar",
+        "address": "Кишинев, бул. Дачия, 28/4",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_891_4_thumb.png",
+        "place_link": "/ru/places/cafe/geography-of-taste",
+        "name": "Geography of Taste",
+        "address": "Кишинев,  ул. Студенцилор, 7/5",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_596_7_thumb.jpg",
+        "place_link": "/ru/places/cafe/grace-cafe",
+        "name": "GRACE Cafe",
+        "address": "Кишинев, ул. Албишоара, 82/2",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_853_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/illy-coffee",
+        "name": "ILLY Coffee",
+        "address": "Кишинев, бул. Григоре Виеру 20",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_773_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/jolly-alon-oteli--restoran",
+        "name": "Jolly Alon Отель & Ресторан",
+        "address": "Кишинев, ул. Мария Чиботарь 37",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_829_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/kimbo",
+        "name": "KIMBO",
+        "address": "Кишинёв, ул. Богдан Воевод, 2",
+        "type": [
+            "Кафе",
+            "Бар",
+            "Чайная"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_672_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/la-sarkis",
+        "name": "La Sarkis",
+        "address": "Кишинёв, ул. A. Матеевич, 113/A",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_667_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/laspi",
+        "name": "Laspi",
+        "address": "Кишинёв, пр-т Мирча чел Бэтрын, 9/2",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_969_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/lo-chef-cafe",
+        "name": "Lo Chef CAFE",
+        "address": "Кишинев, ул. Киев, 6/6",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_79_9_thumb.png",
+        "place_link": "/ru/places/cafe/the-loft",
+        "name": "LOFT Cafe & Restaurant",
+        "address": "Кишинев, ул. Николае Йорга, 3",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_766_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/me-gusto",
+        "name": "Me Gusto",
+        "address": "Кишинев, ул. Пушкина 10",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_904_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/meating-point",
+        "name": "Meating point",
+        "address": "Кишинев, ул. Гренобля 120",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1091_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/mexico-food-factory",
+        "name": "Mexico Food Factory",
+        "address": "Кишинев, бул. Дачия, 44",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_605_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/mid-point",
+        "name": "MidPoint",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, 4 этаж)",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_476_17_thumb.png",
+        "place_link": "/ru/places/cafe/mojito",
+        "name": "Mojito 1",
+        "address": "Кишинёв, бл. Штефан чел Маре, 152",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_155_9_thumb.jpg",
+        "place_link": "/ru/places/cafe/mojito-1",
+        "name": "Mojito 2",
+        "address": "Кишинев, бул. Москова, 11/5",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_965_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/murano-cafe--gallery",
+        "name": "Murano Cafe & Gallery",
+        "address": "Кишинёв, ул. Льва Толстого, 24/1",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_881_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/muzcafe-karaoke",
+        "name": "MuzCafe Karaoke",
+        "address": "Кишинев, ул. Сармизеджетуса, 18/5",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_635_1_thumb.jpg",
+        "place_link": "/ru/places/bars/muzzette-karaoke",
+        "name": "Muzzette Karaoke & Cafe",
+        "address": "Кишинев, ул. Тигина, 49A",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_966_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/myata-cafe",
+        "name": "MYATA CAFE",
+        "address": "Кишинев, ул. Митрополит Г. Бэнулеску-Бодони, 37/1",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1079_2_thumb.jpg",
+        "place_link": "/ru/places/bars/nero-karaokeclub",
+        "name": "NeRo KaraoKe$Club",
+        "address": "Кишинев, бул. Штефан чел Маре 6",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_600_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/nitro-cafe",
+        "name": "Nitro Cafe",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, 4 этаж)",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_200_8_thumb.jpg",
+        "place_link": "/ru/places/restaurants/offline-cafe--lounge-karaoke",
+        "name": "Off'Line Cafe & Lounge Karaoke",
+        "address": "Кишинев, ул. Каля Ешилор, 2/5",
+        "type": [
+            "Ресторан",
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_33_2_thumb.png",
+        "place_link": "/ru/places/cafe/opa-greek-cafe",
+        "name": "Opa Greek Cafe",
+        "address": "Кишинев, ул. Михай Еминеску 55",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_637_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/panna-cotta",
+        "name": "Panna Cotta",
+        "address": "Кишинев, ул. Митрополит Г. Бэнулеску-Бодони, 22",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_984_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/panorama-cafe",
+        "name": "Panorama Cafe",
+        "address": "Кишинев, ул. Онисифор Гибу 1/1",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_475_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/paparazzi-cafe-karaoke",
+        "name": "Paparazzi Cafe Karaoke",
+        "address": "Кишинёв, ул. С. Лазо, 40",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_818_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/partyzan",
+        "name": "PartyZAN",
+        "address": "Кишинев, ул. Онисифор Гибу 9",
+        "type": [
+            "Кафе",
+            "Русский бильярд",
+            "Настольный теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_648_12_thumb.png",
+        "place_link": "/ru/places/cafe/pink-martini",
+        "name": "Pink Martini",
+        "address": "Кишинев, бул. К.Негруцци, 3",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_933_2_thumb.png",
+        "place_link": "/ru/places/bars/polo-house",
+        "name": "Polo House",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Бар",
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1046_6_thumb.png",
+        "place_link": "/ru/places/cafe/real-urban-food",
+        "name": "Real Urban Food",
+        "address": "Кишинев, Ул. Николае Тестемитяну 29/5",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_189_4_thumb.jpg",
+        "place_link": "/ru/places/bars/rock-roll-cafe-closed",
+        "name": "Rock&Roll Cafe",
+        "address": "Кишинев, бул. Штефан чел Маре, 134",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_739_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/rooms-restaurant--more",
+        "name": "ROOMS Restaurant & More",
+        "address": "Кишинёв, ул. Киев 16/1",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_894_6_thumb.jpg",
+        "place_link": "/ru/places/cafe/rozmarin-cafe",
+        "name": "Rozmarin Cafe",
+        "address": "Кишинев, Ул. Штефан чел Маре 202",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_675_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/sakura-sushi-bar-atrium",
+        "name": "Sakura Sushi - Bar",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, IV эт.)",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_676_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/sakura-sushi-bar-jumbo",
+        "name": "Sakura Sushi - Bar",
+        "address": "Кишинёв, пр-т Дечебал, 23 (Jumbo)",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1124_1_thumb.jpg",
+        "place_link": "/ru/places/bars/salsa-house",
+        "name": "Salsa House",
+        "address": "Кишинев, улица Александру чел Бун 83",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_467_7_thumb.jpg",
+        "place_link": "/ru/places/cafe/sensi-bar-cafe",
+        "name": "Sensi bar & café",
+        "address": "Кишинёв, бул. Д. Кантемир 3/2",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_986_1_thumb.png",
+        "place_link": "/ru/places/cafe/shock-karaoke",
+        "name": "Shock Karaoke",
+        "address": "Кишинев, ул. Исмаил 90/1",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_149_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/tarancuta",
+        "name": "Ţărăncuţa",
+        "address": "Кишинев, ул. Алба-Юлия, 122/1",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_858_3_thumb.jpg",
+        "place_link": "/ru/places/cafe/taxi-blues-cafe-botanika",
+        "name": "Taxi Blues Cafe (Ботаника)",
+        "address": "Кишинёв, бл. Дечебал 22/1",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_52_10_thumb.jpg",
+        "place_link": "/ru/places/cafe/taxi-blues-rishkanovka",
+        "name": "Taxi Blues Cafe (Рышкановка)",
+        "address": "Кишинев, ул. Киев, 12",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_777_3_thumb.jpg",
+        "place_link": "/ru/places/cafe/taxi-blues-cafe-tsentr",
+        "name": "Taxi Blues Cafe (центр)",
+        "address": "Кишинев, ул. Лев Толстой 24/1",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_890_1_thumb.jpg",
+        "place_link": "/ru/places/bars/taxi-blues-gril-bar-rishkanovka",
+        "name": "Taxi Blues Gril Bar (Буюканы)",
+        "address": "Кишинёв, ул. Алба Юлия 75A",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_868_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/tennis-terrace-acvila",
+        "name": "Tennis Terrace Acvila",
+        "address": "Кишинев, ул. Каля Ешилор, 10",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1155_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/the-penthouse-cafe",
+        "name": "The Penthouse Cafe",
+        "address": "103 / 2, Stefan cel Mare Str. Chisinau",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_112_8_thumb.png",
+        "place_link": "/ru/places/bars/penthaus",
+        "name": "The Penthouse Cafe",
+        "address": "Кишинев, бул. Штефан чел Маре, 103/2",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_540_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/tiramisu-sakura",
+        "name": "Tiramisu & Sakura",
+        "address": "Кишинёв, ул. Арборилор, 7",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_526_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/touch-cafe",
+        "name": "Touch Cafe",
+        "address": "Кишинёв, ул.Негруззи, 2/4 (Grand Hall, 4 ет.)",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_585_9_thumb.png",
+        "place_link": "/ru/places/cafe/tucano-coffee-brasil",
+        "name": "Tucano Coffee Brasil",
+        "address": "Кишинёв, ул. Александру чел Бун, 91A",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_474_13_thumb.png",
+        "place_link": "/ru/places/cafe/tucano-coffee",
+        "name": "Tucano Coffee Costa Rica",
+        "address": "Кишинёв, ул. A. Пушкин, 15",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_619_3_thumb.png",
+        "place_link": "/ru/places/cafe/tucano-coffee-jamaica",
+        "name": "Tucano Coffee Jamaica",
+        "address": "Кишинев, ул. Арборилор, 21(MallDova, 1 этаж)",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_807_8_thumb.png",
+        "place_link": "/ru/places/cafe/tucano-coffee-kenya",
+        "name": "Tucano Coffee Kenya",
+        "address": "Кишинёв, бул. Москова, 1/4",
+        "type": [
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_767_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/uptown-cafe",
+        "name": "Uptown Cafe",
+        "address": "Кишинев, ул.Пушкина 10",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_298_4_thumb.jpg",
+        "place_link": "/ru/places/sweet-shops/vanille",
+        "name": "Vanille",
+        "address": "Кишинев, бул. Дачия, 31",
+        "type": [
+            "Кондитерская",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_782_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/vasabi-dachiya",
+        "name": "Vasabi (Дачия)",
+        "address": "Кишинёв, бул. Дачия 4/1",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_541_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/versenz-cafe",
+        "name": "Versenz",
+        "address": "Кишинёв, бл. Москва, 15/5",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_822_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/view-caf--restaurant",
+        "name": "View Café & Restaurant",
+        "address": "Кишинев, ул.Ми Еминеску, 55",
+        "type": [
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_472_7_thumb.png",
+        "place_link": "/ru/places/restaurants/vila-noua",
+        "name": "Vila Noua",
+        "address": "Кишинёв, ул. Джинта Латинэ, 5/3",
+        "type": [
+            "Ресторан",
+            "Кафе",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1047_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/wurst-cafe",
+        "name": "Wurst Cafe",
+        "address": "Кишинёв, Ул. Арборилор, 21",
+        "type": [
+            "Кафе",
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_947_1_thumb.png",
+        "place_link": "/ru/places/cafe/z-cafe",
+        "name": "Z Cafe",
+        "address": "Кишинёв, ул. 31Августа 1989, 103",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_202_2_thumb.png",
+        "place_link": "/ru/places/sweet-shops/delis-danzh",
+        "name": "Делис Д'анж",
+        "address": "Кишинев, ул. 31 Августа 1989, 117/2",
+        "type": [
+            "Кондитерская",
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_59_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/eli-pili",
+        "name": "Ели-Пили",
+        "address": "Кишинев, ул. Букурешть, 68",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_46_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/kartal",
+        "name": "Картал",
+        "address": "Кишинев, ул. А.Пушкин, 52",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_753_12_thumb.jpg",
+        "place_link": "/ru/places/cafe/kafe-fanconi",
+        "name": "Кафе Fanconi",
+        "address": "Кишинев, бул. Ренаштерии Национале 5",
+        "type": [
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_206_2_thumb.png",
+        "place_link": "/ru/places/cafe/muzkafe-44",
+        "name": "Музкафе'44",
+        "address": "Кишинев, ул. Албишоара, 44",
+        "type": [
+            "Кафе",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_709_7_thumb.jpg",
+        "place_link": "/ru/places/cafe/propaganda",
+        "name": "Пропаганда",
+        "address": "Кишинев, ул. А. Щусева, 70",
+        "type": [
+            "Кафе",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_770_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/san-sushi",
+        "name": "Сан суши",
+        "address": "Ул. Куза Водэ 5/5",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_945_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/restaurant-moldovenesc",
+        "name": "Restaurant \"Moldovenesc\"",
+        "address": "Кишинев, ул. Пушкин 32 (Sun City этаж 3)",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_946_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/restaurant-bristol",
+        "name": "Restaurant Bristol",
+        "address": "Кишинев, ул. Пушкин 32 (Hotel Bristol Central Park, эт. 5)",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_270_9_thumb.jpg",
+        "place_link": "/ru/places/restaurants/banquet-premium",
+        "name": "Banquet Premium",
+        "address": "Кишинев, бул. Москова, 11/1",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_413_8_thumb.jpg",
+        "place_link": "/ru/places/restaurants/banquet-room",
+        "name": "Banquet Room",
+        "address": "Кишинев, ул. Букурией, 1/6",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_546_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/cafe-de-flore",
+        "name": "Cafe de Flore",
+        "address": "Кишинёв, Балканский путь, 36",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_480_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/cvin",
+        "name": "Cvin",
+        "address": "Кишинёв, ул. Индепенденцей, 3/2",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_854_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/garrison",
+        "name": "Garrison",
+        "address": "Кишинев, шос. Хынчешть, 2",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_610_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/green-park",
+        "name": "Green Park",
+        "address": "Кишинев, ул. Друмул Виилор, 34/1",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_140_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/la-roma",
+        "name": "La Roma",
+        "address": "Кишинев, ул. Албишоара, 40/1",
+        "type": [
+            "Ресторан",
+            "Картинг",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_195_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/la-vista",
+        "name": "La Vista",
+        "address": "Кишинев, пр-т Траян, 5/3",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_377_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/novas-banquet-hall",
+        "name": "Novas Banquet Hall",
+        "address": "Сынжера, ул. Аерогэрий, 31",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_836_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/the-most",
+        "name": "THE MOST",
+        "address": "Кишинёв, ул. Арборилор, 17/1",
+        "type": [
+            "Ресторан",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_472_7_thumb.png",
+        "place_link": "/ru/places/restaurants/vila-noua",
+        "name": "Vila Noua",
+        "address": "Кишинёв, ул. Джинта Латинэ, 5/3",
+        "type": [
+            "Ресторан",
+            "Кафе",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_789_2_thumb.jpg",
+        "place_link": "/ru/places/pubs/smokehouse",
+        "name": "Smokehouse",
+        "address": "Кишинёв, бул. Штефан чел Маре 128",
+        "type": [
+            "Паб",
+            "Fast-Food",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_706_5_thumb.png",
+        "place_link": "/ru/places/pubs/beer-time",
+        "name": "Beer Time",
+        "address": "Кишинев, ул. Вероника Микле, 2A",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_827_5_thumb.jpg",
+        "place_link": "/ru/places/bars/beraria-chisinau",
+        "name": "Beraria Chisinau",
+        "address": "Кишинёв, ул. Евгений Дога, 2 (A. Диордица 2)",
+        "type": [
+            "Бар",
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_656_4_thumb.jpg",
+        "place_link": "/ru/places/pubs/brothers-pub",
+        "name": "Brother's Pub",
+        "address": "Кишинев, ул. Михай Еминеску, 29",
+        "type": [
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_774_14_thumb.png",
+        "place_link": "/ru/places/pubs/budweiser-pub",
+        "name": "Budweiser Grill & Pub",
+        "address": "Кишинев, ул. Алексей Щусев 93",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_746_2_thumb.jpg",
+        "place_link": "/ru/places/pubs/draft-timisoreana",
+        "name": "Draft (Ciocana)",
+        "address": "Кишинёв, ул. Мирча чел Бэтрын 9В",
+        "type": [
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_815_2_thumb.jpg",
+        "place_link": "/ru/places/pubs/draft-dacia",
+        "name": "Draft Arena",
+        "address": "Кишинев, бул. Дачия, 35",
+        "type": [
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_747_3_thumb.jpg",
+        "place_link": "/ru/places/pubs/draft-timisoreana-1",
+        "name": "Draft Timisoreana",
+        "address": "Кишинёв, ул. 31 Августа1989 78",
+        "type": [
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_76_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/dublin",
+        "name": "Dublin Irish Pub",
+        "address": "Кишинев, ул. Булгарэ, 27",
+        "type": [
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_960_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/erik-the-red-gastro-pub",
+        "name": "ERIK the RED Gastro Pub",
+        "address": "Кишинёв, ул. Букурешти, 67",
+        "type": [
+            "Паб",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_954_3_thumb.jpg",
+        "place_link": "/ru/places/pubs/five-karaoke--pub",
+        "name": "FIVE Karaoke & Pub",
+        "address": "Кишинёв ул. Децебал 99 (Елат 3 этаж)",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_286_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/flying-pig",
+        "name": "Flying Pig",
+        "address": "Кишинев, бул. Москова, 9",
+        "type": [
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_696_8_thumb.png",
+        "place_link": "/ru/places/pubs/gallo-pub",
+        "name": "Gallo Pub",
+        "address": "Кишинев, ул. Албишоара, 78/5",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1140_2_thumb.png",
+        "place_link": "/ru/places/restaurants/grotta-pub",
+        "name": "Grotta Pub",
+        "address": "Кишинев, Вероника Микле 2А",
+        "type": [
+            "Ресторан",
+            "Пиццерия",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_518_5_thumb.jpg",
+        "place_link": "/ru/places/pubs/kira-s-club",
+        "name": "Kira's Club",
+        "address": "Кишинёв, ул. В.Микле, 7",
+        "type": [
+            "Паб",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_742_18_thumb.jpg",
+        "place_link": "/ru/places/restaurants/kozlovna-ceska-pivni-restaurace",
+        "name": "Kozlovna Ceska Pivni Restaurace",
+        "address": "Кишинёв, ул. Пушкина, nr. 24",
+        "type": [
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_191_3_thumb.jpg",
+        "place_link": "/ru/places/pubs/the-7-bar",
+        "name": "Lucky 7 Pub & Grill",
+        "address": "Кишинев, бул. Дачия, 29",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_896_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/luds-pub",
+        "name": "LUD'S PUB",
+        "address": "Кишинев, ул. Пушкин 32",
+        "type": [
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_606_4_thumb.png",
+        "place_link": "/ru/places/pubs/maximilian",
+        "name": "Maximilian Pub & Grill",
+        "address": "Кишинев, бул. Дечебал, 80/1",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_905_1_thumb.png",
+        "place_link": "/ru/places/pubs/munchen-pub",
+        "name": "Munchen Pub",
+        "address": "Кишинев, бул. Мирча чел Бэтрын, 1",
+        "type": [
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_764_5_thumb.jpg",
+        "place_link": "/ru/places/pubs/old-bus-gastropub",
+        "name": "OLD BUS GastroPub",
+        "address": "Кишинев, ул. Александру чел Бун 83 (пешеходная зона)",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1083_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/sevens-big-music-pub",
+        "name": "Sevens - Big Music Pub",
+        "address": "Кишинев, ул. Парис, 47A",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_633_6_thumb.jpg",
+        "place_link": "/ru/places/pubs/sherlock-holmes",
+        "name": "Sherlock Holmes Pub",
+        "address": "Кишинёв, ул. Индепенденцей, 5a",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1089_1_thumb.png",
+        "place_link": "/ru/places/pubs/staropramen-pub",
+        "name": "Staropramen Pub",
+        "address": "Кишинев, бул. Москова, 14/1",
+        "type": [
+            "Паб",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_737_7_thumb.jpg",
+        "place_link": "/ru/places/pubs/the-york-pub",
+        "name": "The York Pub",
+        "address": "Кишинёв, ул. Митрополита Бэнулеску-Бодони",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_695_5_thumb.jpg",
+        "place_link": "/ru/places/pubs/three-bears-pub",
+        "name": "Three Bears Pub",
+        "address": "Кишинёв, ул. Игорь Виеру, 2/3",
+        "type": [
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_942_5_thumb.png",
+        "place_link": "/ru/places/pubs/torro-wine-club",
+        "name": "Torro Wine Club",
+        "address": "Кишинёв ул. Армянская 44/2",
+        "type": [
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1059_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/two-bucks-pub",
+        "name": "Two Bucks Pub",
+        "address": "Кишинёв ул.Игорь Виеру 2/3 ул.",
+        "type": [
+            "Паб",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_256_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/velgar",
+        "name": "Velgar",
+        "address": "Кишинев, ул. Митрополит Варлаам, 84",
+        "type": [
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_203_2_thumb.jpg",
+        "place_link": "/ru/places/pubs/robin-pab",
+        "name": "Робин Паб",
+        "address": "Кишинев, ул. Александру чел Бун, 83",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_789_2_thumb.jpg",
+        "place_link": "/ru/places/pubs/smokehouse",
+        "name": "Smokehouse",
+        "address": "Кишинёв, бул. Штефан чел Маре 128",
+        "type": [
+            "Паб",
+            "Fast-Food",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1147_1_thumb.jpg",
+        "place_link": "/ru/places/fast-food/burger-craft",
+        "name": "Burger Craft",
+        "address": "Кишинев, Иерусалим 7",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_914_7_thumb.jpg",
+        "place_link": "/ru/places/fast-food/burger-beef",
+        "name": "Kamora Burger",
+        "address": "Кишинев, бул. Москова, 10/3",
+        "type": [
+            "Fast-Food",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_776_2_thumb.png",
+        "place_link": "/ru/places/fast-food/kfc",
+        "name": "KFC",
+        "address": "Кишинев, ул. Арборилор 21 (4 ет.)",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_820_8_thumb.png",
+        "place_link": "/ru/places/fast-food/kfc-1",
+        "name": "KFC",
+        "address": "Кишинёв, бул. Москова, 1/4",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_512_5_thumb.png",
+        "place_link": "/ru/places/fast-food/mcdonalds",
+        "name": "McDonald's",
+        "address": "Кишинев, ул. Алеку Руссо, 2",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_520_4_thumb.png",
+        "place_link": "/ru/places/fast-food/mcdonalds-1",
+        "name": "McDonald's",
+        "address": "Кишинёв, бул. Штефан чел Маре, 134/1",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_521_4_thumb.png",
+        "place_link": "/ru/places/fast-food/mcdonalds-2",
+        "name": "McDonald's",
+        "address": "Кишинёв, бул. Дачия, 21/1",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_522_3_thumb.png",
+        "place_link": "/ru/places/fast-food/mcdonalds-3",
+        "name": "McDonald's",
+        "address": "Кишинёв, ул. Арборилор, 21 (4 ет.)",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_989_1_thumb.jpg",
+        "place_link": "/ru/places/fast-food/mcdonalds-zitymall",
+        "name": "McDonald's ZityMall",
+        "address": "Кишинев, ул. Каля Ешилор 8",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1135_1_thumb.jpg",
+        "place_link": "/ru/places/fast-food/star-kebab-31-august",
+        "name": "Star Kebab (31 August)",
+        "address": "Кишинев, ул. 31 Августа 1989, 113",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1134_1_thumb.jpg",
+        "place_link": "/ru/places/fast-food/star-kebab-alba-iulia",
+        "name": "Star Kebab (Alba-Iulia)",
+        "address": "Кишинёв, ул. Алба Юлия, 23",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_728_7_thumb.png",
+        "place_link": "/ru/places/fast-food/star-kebab-5",
+        "name": "Star Kebab (Alecu Russo)",
+        "address": "Кишинев, ул. Алеку Руссо, 20",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_937_1_thumb.jpg",
+        "place_link": "/ru/places/fast-food/star-kebab-alecu-russo",
+        "name": "Star Kebab (Alecu Russo)",
+        "address": "Кишинев, ул. Алеку Руссо, 1/1",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_623_13_thumb.png",
+        "place_link": "/ru/places/fast-food/star-kebab-2",
+        "name": "Star Kebab (Arborilor)",
+        "address": "Кишинев, ул. Арборилор, 21 (Shoping Malldova, 4 этаж)",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_621_4_thumb.png",
+        "place_link": "/ru/places/fast-food/star-kebab",
+        "name": "Star Kebab (Decebal)",
+        "address": "Кишинев, бул. Дечебал, 61",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_726_2_thumb.png",
+        "place_link": "/ru/places/fast-food/star-kebab-3",
+        "name": "Star Kebab (Grigore Vieru)",
+        "address": "Кишинев, бул. Григоре Виеру, 5",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_622_4_thumb.png",
+        "place_link": "/ru/places/fast-food/star-kebab-1",
+        "name": "Star Kebab (Ismail)",
+        "address": "Кишинев, ул. Измаил, 84",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_477_3_thumb.png",
+        "place_link": "/ru/places/fast-food/starkebab",
+        "name": "Star Kebab (Kiev)",
+        "address": "Кишинёв, ул. Киев, 4",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_727_5_thumb.png",
+        "place_link": "/ru/places/fast-food/star-kebab-4",
+        "name": "Star Kebab (Mircea cel Batrin)",
+        "address": "Кишинев, бул. Мирча чел Бэтрын, 16",
+        "type": [
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1028_1_thumb.png",
+        "place_link": "/ru/places/fast-food/torro-burgers-botanika",
+        "name": "Torro Burgers (Ботаника)",
+        "address": "Кишинев, ул. Трандафирилор, 43",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1004_8_thumb.png",
+        "place_link": "/ru/places/fast-food/torro-burgers-rishkani",
+        "name": "Torro Burgers (Рышкановка)",
+        "address": "Кишинев, ул. Мирон Костин, 13/1",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1085_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/torro-burgers-rishkani-2",
+        "name": "Torro Burgers (Рышкань)",
+        "address": "Кишинёв, ул. Киев, 9",
+        "type": [
+            "Ресторан",
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1005_16_thumb.png",
+        "place_link": "/ru/places/fast-food/torro-burgers-tsentr",
+        "name": "Torro Burgers (Центр)",
+        "address": "Кишинев, ул. Пушкина 12",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1006_16_thumb.png",
+        "place_link": "/ru/places/fast-food/torro-burgers-chekani",
+        "name": "Torro Burgers (Чеканы)",
+        "address": "Кишинёв, ул. Алеку Руссо, 65/1",
+        "type": [
+            "Fast-Food",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1047_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/wurst-cafe",
+        "name": "Wurst Cafe",
+        "address": "Кишинёв, Ул. Арборилор, 21",
+        "type": [
+            "Кафе",
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1025_3_thumb.png",
+        "place_link": "/ru/places/restaurants/yammino",
+        "name": "Yammino",
+        "address": "Кишинев, ул. Николай Тестемицану 29/5",
+        "type": [
+            "Ресторан",
+            "Fast-Food"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_789_2_thumb.jpg",
+        "place_link": "/ru/places/pubs/smokehouse",
+        "name": "Smokehouse",
+        "address": "Кишинёв, бул. Штефан чел Маре 128",
+        "type": [
+            "Паб",
+            "Fast-Food",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_813_2_thumb.jpg",
+        "place_link": "/ru/places/bars/vvs-biliyardniy-klub",
+        "name": "VVS Бильярдный клуб",
+        "address": "Кишинев, ул. Индепенденцей, 6/1",
+        "type": [
+            "Бар",
+            "Бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_835_2_thumb.png",
+        "place_link": "/ru/places/bars/vinoteka-winemd",
+        "name": "Винотека Wine.md",
+        "address": "Кишинёв, ул. A. Пушкин, 15",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_263_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/44-jazz-cafe",
+        "name": "\"44\"-Jazz Cafe",
+        "address": "Кишинев, ул. Албишоара, 44",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_738_10_thumb.jpg",
+        "place_link": "/ru/places/restaurants/2nd-avenue",
+        "name": "2nd Avenue",
+        "address": "Кишинев, бул.Московский 2",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_964_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/anticafe-co-working",
+        "name": "AntiCafe Co-working",
+        "address": "Кишинев, ул. Штефан чел Маре 6",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1041_1_thumb.png",
+        "place_link": "/ru/places/bars/bandabar",
+        "name": "BandabaR",
+        "address": "Кишинёв, ул. М Еминеску 55,",
+        "type": [
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_915_1_thumb.jpg",
+        "place_link": "/ru/places/bars/barbar",
+        "name": "Barbar",
+        "address": "Кишинев, ул. Михай Еминеску 56",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_28_8_thumb.png",
+        "place_link": "/ru/places/restaurants/beer-house",
+        "name": "Beer House",
+        "address": "Кишинев, бул.К.Негруцци, 6/2",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_827_5_thumb.jpg",
+        "place_link": "/ru/places/bars/beraria-chisinau",
+        "name": "Beraria Chisinau",
+        "address": "Кишинёв, ул. Евгений Дога, 2 (A. Диордица 2)",
+        "type": [
+            "Бар",
+            "Ресторан",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_593_9_thumb.png",
+        "place_link": "/ru/places/bars/carpe-diem",
+        "name": "Carpe Diem",
+        "address": "Кишинев, ул. Колумна, 136",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_172_9_thumb.png",
+        "place_link": "/ru/places/restaurants/chateau-grillwine",
+        "name": "Chateau Grill&Wine (Nicolae Costin)",
+        "address": "Кишинев, ул. Николай Костин, 67/1",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_137_1_thumb.png",
+        "place_link": "/ru/places/restaurants/chianti",
+        "name": "CHIANTI",
+        "address": "Кишинев, ул. Михай Еминеску, 50",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_666_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/do-cafe",
+        "name": "Do Cafe",
+        "address": "Кишинёв, пр-т Мирча чел Бэтрын, 23/3",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_654_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/dona-tina",
+        "name": "Dona Tina",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1111_3_thumb.jpg",
+        "place_link": "/ru/places/bars/dosoftei-89-cocktail-bar",
+        "name": "Dosoftei 89 - Cocktail Bar",
+        "address": "Кишинев, ул. Митрополит Дософтей, 89",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_936_9_thumb.jpg",
+        "place_link": "/ru/places/restaurants/entourage-restaurant",
+        "name": "Entourage Restaurant",
+        "address": "Кишинев, ул. 31 Августа 1989, 117/1",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_960_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/erik-the-red-gastro-pub",
+        "name": "ERIK the RED Gastro Pub",
+        "address": "Кишинёв, ул. Букурешти, 67",
+        "type": [
+            "Паб",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_2_4_thumb.jpg",
+        "place_link": "/ru/places/bars/fish-ka",
+        "name": "Fish-ka",
+        "address": "Кишинев, бул. Дачия, 31",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_954_3_thumb.jpg",
+        "place_link": "/ru/places/pubs/five-karaoke--pub",
+        "name": "FIVE Karaoke & Pub",
+        "address": "Кишинёв ул. Децебал 99 (Елат 3 этаж)",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_834_9_thumb.jpg",
+        "place_link": "/ru/places/cafe/fratelli-restobar",
+        "name": "Fratelli RestoBar",
+        "address": "Кишинев, бул. Дачия, 28/4",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1075_1_thumb.jpg",
+        "place_link": "/ru/places/bars/gaz-karaoke--night-club",
+        "name": "GAZ karaoke & night club",
+        "address": "Кишинев, ул. Дечебал 23/1",
+        "type": [
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_891_4_thumb.png",
+        "place_link": "/ru/places/cafe/geography-of-taste",
+        "name": "Geography of Taste",
+        "address": "Кишинев,  ул. Студенцилор, 7/5",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_589_1_thumb.jpg",
+        "place_link": "/ru/places/bars/jacks-bar-grill",
+        "name": "Jack's Bar&Grill",
+        "address": "Кишинёв, бд. Негруцци, 2/4",
+        "type": [
+            "Бар",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1101_1_thumb.jpg",
+        "place_link": "/ru/places/bars/jrome",
+        "name": "Jérome",
+        "address": "Кишинев, ул. Пушкина 12",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_773_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/jolly-alon-oteli--restoran",
+        "name": "Jolly Alon Отель & Ресторан",
+        "address": "Кишинев, ул. Мария Чиботарь 37",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_914_7_thumb.jpg",
+        "place_link": "/ru/places/fast-food/burger-beef",
+        "name": "Kamora Burger",
+        "address": "Кишинев, бул. Москова, 10/3",
+        "type": [
+            "Fast-Food",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_878_1_thumb.png",
+        "place_link": "/ru/places/bars/karaoke-home-club",
+        "name": "Karaoke Home Club",
+        "address": "Кишинев, ул. Митрополит Варлаам, 63/23",
+        "type": [
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_924_4_thumb.jpg",
+        "place_link": "/ru/places/bars/karaoke-krokus",
+        "name": "Karaoke Krokus",
+        "address": "Кишинев, бд. Дечебал, 80/1",
+        "type": [
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_829_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/kimbo",
+        "name": "KIMBO",
+        "address": "Кишинёв, ул. Богдан Воевод, 2",
+        "type": [
+            "Кафе",
+            "Бар",
+            "Чайная"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_672_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/la-sarkis",
+        "name": "La Sarkis",
+        "address": "Кишинёв, ул. A. Матеевич, 113/A",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1129_1_thumb.jpg",
+        "place_link": "/ru/places/bars/labrewtory",
+        "name": "LaBREWtory",
+        "address": "Кишинев, Шос. Мунчешть, 77",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1104_1_thumb.png",
+        "place_link": "/ru/places/bars/lobby-bar",
+        "name": "Lobby Bar",
+        "address": "Кишинев, ул. Михай Еминеску 55",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_191_3_thumb.jpg",
+        "place_link": "/ru/places/pubs/the-7-bar",
+        "name": "Lucky 7 Pub & Grill",
+        "address": "Кишинев, бул. Дачия, 29",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_327_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/manhattan",
+        "name": "Manhattan",
+        "address": "Кишинев, ул. Чуфля, 1",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1154_1_thumb.png",
+        "place_link": "/ru/places/bars/marlne",
+        "name": "Marlène",
+        "address": "Кишинев, ул. București 75",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_476_17_thumb.png",
+        "place_link": "/ru/places/cafe/mojito",
+        "name": "Mojito 1",
+        "address": "Кишинёв, бл. Штефан чел Маре, 152",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_155_9_thumb.jpg",
+        "place_link": "/ru/places/cafe/mojito-1",
+        "name": "Mojito 2",
+        "address": "Кишинев, бул. Москова, 11/5",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_635_1_thumb.jpg",
+        "place_link": "/ru/places/bars/muzzette-karaoke",
+        "name": "Muzzette Karaoke & Cafe",
+        "address": "Кишинев, ул. Тигина, 49A",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_971_1_thumb.jpg",
+        "place_link": "/ru/places/bars/nashe-mesto",
+        "name": "Nashe Mesto",
+        "address": "Кишинев, ул. Митрополит Г. Бэнулеску-Бодони, 28/1",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1079_2_thumb.jpg",
+        "place_link": "/ru/places/bars/nero-karaokeclub",
+        "name": "NeRo KaraoKe$Club",
+        "address": "Кишинев, бул. Штефан чел Маре 6",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1024_8_thumb.png",
+        "place_link": "/ru/places/restaurants/oro-lounge",
+        "name": "ORO Lounge",
+        "address": "Кишинёв, бул. Дечебал 34",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_825_6_thumb.png",
+        "place_link": "/ru/places/restaurants/osho-barkitchen",
+        "name": "OSHO bar&kitchen",
+        "address": "Кишинев, бул. Дечебал, 7/1",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_933_2_thumb.png",
+        "place_link": "/ru/places/bars/polo-house",
+        "name": "Polo House",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Бар",
+            "Кафе",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_932_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/porter-yard",
+        "name": "Porter YARD",
+        "address": "Кодру ул. Костюжень 6/3",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_959_1_thumb.png",
+        "place_link": "/ru/places/restaurants/restaurant--bar-kotobuki",
+        "name": "Restaurant & Bar Kotobuki",
+        "address": "Кишинев, ул. Михай Еминеску, 44/1",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_189_4_thumb.jpg",
+        "place_link": "/ru/places/bars/rock-roll-cafe-closed",
+        "name": "Rock&Roll Cafe",
+        "address": "Кишинев, бул. Штефан чел Маре, 134",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_675_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/sakura-sushi-bar-atrium",
+        "name": "Sakura Sushi - Bar",
+        "address": "Кишинев, ул. Албишоара, 4 (Atrium, IV эт.)",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_676_2_thumb.jpg",
+        "place_link": "/ru/places/cafe/sakura-sushi-bar-jumbo",
+        "name": "Sakura Sushi - Bar",
+        "address": "Кишинёв, пр-т Дечебал, 23 (Jumbo)",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_899_3_thumb.png",
+        "place_link": "/ru/places/restaurants/salat-restaurantfree-flow",
+        "name": "SALAT Restaurant & Free Flow 1",
+        "address": "Кишинев, бул. Дачия, 36",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1124_1_thumb.jpg",
+        "place_link": "/ru/places/bars/salsa-house",
+        "name": "Salsa House",
+        "address": "Кишинев, улица Александру чел Бун 83",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1083_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/sevens-big-music-pub",
+        "name": "Sevens - Big Music Pub",
+        "address": "Кишинев, ул. Парис, 47A",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_986_1_thumb.png",
+        "place_link": "/ru/places/cafe/shock-karaoke",
+        "name": "Shock Karaoke",
+        "address": "Кишинев, ул. Исмаил 90/1",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_320_7_thumb.jpg",
+        "place_link": "/ru/places/restaurants/sky-club",
+        "name": "Sky Bar",
+        "address": "Кишинев, ул. Албишоара, 4",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_858_3_thumb.jpg",
+        "place_link": "/ru/places/cafe/taxi-blues-cafe-botanika",
+        "name": "Taxi Blues Cafe (Ботаника)",
+        "address": "Кишинёв, бл. Дечебал 22/1",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_52_10_thumb.jpg",
+        "place_link": "/ru/places/cafe/taxi-blues-rishkanovka",
+        "name": "Taxi Blues Cafe (Рышкановка)",
+        "address": "Кишинев, ул. Киев, 12",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_777_3_thumb.jpg",
+        "place_link": "/ru/places/cafe/taxi-blues-cafe-tsentr",
+        "name": "Taxi Blues Cafe (центр)",
+        "address": "Кишинев, ул. Лев Толстой 24/1",
+        "type": [
+            "Кафе",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_890_1_thumb.jpg",
+        "place_link": "/ru/places/bars/taxi-blues-gril-bar-rishkanovka",
+        "name": "Taxi Blues Gril Bar (Буюканы)",
+        "address": "Кишинёв, ул. Алба Юлия 75A",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_112_8_thumb.png",
+        "place_link": "/ru/places/bars/penthaus",
+        "name": "The Penthouse Cafe",
+        "address": "Кишинев, бул. Штефан чел Маре, 103/2",
+        "type": [
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_737_7_thumb.jpg",
+        "place_link": "/ru/places/pubs/the-york-pub",
+        "name": "The York Pub",
+        "address": "Кишинёв, ул. Митрополита Бэнулеску-Бодони",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_935_2_thumb.jpg",
+        "place_link": "/ru/places/bars/traktir-la-gratar",
+        "name": "Traktir La Gratar",
+        "address": "Кишинёв, бл. Дечебал 20",
+        "type": [
+            "Бар",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1059_1_thumb.jpg",
+        "place_link": "/ru/places/pubs/two-bucks-pub",
+        "name": "Two Bucks Pub",
+        "address": "Кишинёв ул.Игорь Виеру 2/3 ул.",
+        "type": [
+            "Паб",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_995_2_thumb.jpg",
+        "place_link": "/ru/places/bars/whos-bar",
+        "name": "WHO'S BAR",
+        "address": "Кишинёв, ул. Букурешть, 67",
+        "type": [
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1007_2_thumb.jpg",
+        "place_link": "/ru/places/restaurants/wine-gogh",
+        "name": "Wine Gogh",
+        "address": "Кишинев, ул. А.Пушкин, 35",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_59_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/eli-pili",
+        "name": "Ели-Пили",
+        "address": "Кишинев, ул. Букурешть, 68",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_41_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/kaktus",
+        "name": "Кактус",
+        "address": "Кишинев, ул. Арменяскэ, 41",
+        "type": [
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_46_5_thumb.jpg",
+        "place_link": "/ru/places/cafe/kartal",
+        "name": "Картал",
+        "address": "Кишинев, ул. А.Пушкин, 52",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_206_2_thumb.png",
+        "place_link": "/ru/places/cafe/muzkafe-44",
+        "name": "Музкафе'44",
+        "address": "Кишинев, ул. Албишоара, 44",
+        "type": [
+            "Кафе",
+            "Бар",
+            "Клуб"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_203_2_thumb.jpg",
+        "place_link": "/ru/places/pubs/robin-pab",
+        "name": "Робин Паб",
+        "address": "Кишинев, ул. Александру чел Бун, 83",
+        "type": [
+            "Паб",
+            "Бар"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_770_5_thumb.jpg",
+        "place_link": "/ru/places/restaurants/san-sushi",
+        "name": "Сан суши",
+        "address": "Ул. Куза Водэ 5/5",
+        "type": [
+            "Ресторан",
+            "Бар",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_813_2_thumb.jpg",
+        "place_link": "/ru/places/bars/vvs-biliyardniy-klub",
+        "name": "VVS Бильярдный клуб",
+        "address": "Кишинев, ул. Индепенденцей, 6/1",
+        "type": [
+            "Бар",
+            "Бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_334_4_thumb.png",
+        "place_link": "/ru/places/billiard/billiard-hall",
+        "name": "Billiard & Karaoke Hall",
+        "address": "Кишинев, ул. Каля Ешилор, 10 (Solaris, 4 эт.)",
+        "type": [
+            "Русский бильярд",
+            "Снукер"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_244_1_thumb.jpg",
+        "place_link": "/ru/places/billiard/iumicom",
+        "name": "Iumicom",
+        "address": "Кишинев, бул. Мирча чел Бэтрын, 3/2",
+        "type": [
+            "Русский бильярд",
+            "Американский бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_873_7_thumb.jpg",
+        "place_link": "/ru/places/billiard/looza-biliyardniy-klub",
+        "name": "Looza бильярдный клуб",
+        "address": "Кишинев, бул. Мирча чел Бэтрын, 12/5",
+        "type": [
+            "Бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_395_5_thumb.jpg",
+        "place_link": "/ru/places/sports-various/niagara-club",
+        "name": "Niagara Fitness Club",
+        "address": "Кишинев, ул. Гидигич, 5",
+        "type": [
+            "Спорт - Разное",
+            "Американский бильярд",
+            "Большой теннис",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_237_1_thumb.jpg",
+        "place_link": "/ru/places/billiard/paradis-biliard",
+        "name": "Paradis Billiard",
+        "address": "Кишинев, ул. М.Садовяну, 42/6 (Megapolis Mall, 4 эт)",
+        "type": [
+            "Русский бильярд",
+            "Снукер",
+            "Американский бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_818_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/partyzan",
+        "name": "PartyZAN",
+        "address": "Кишинев, ул. Онисифор Гибу 9",
+        "type": [
+            "Кафе",
+            "Русский бильярд",
+            "Настольный теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_613_1_thumb.jpg",
+        "place_link": "/ru/places/billiard/piramida-billiard",
+        "name": "Piramida Billiard Club",
+        "address": "Кишинев, ул. Ион Пеливан, 17/1",
+        "type": [
+            "Бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_243_7_thumb.jpg",
+        "place_link": "/ru/places/bowling/plaza-bowling",
+        "name": "Plaza Bowling",
+        "address": "Кишинев, ул. К.Брынкушь, 3",
+        "type": [
+            "Боулинг",
+            "Русский бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_245_3_thumb.jpg",
+        "place_link": "/ru/places/billiard/klassik",
+        "name": "Бильярд Клуб Классик",
+        "address": "Кишинев, ул. К.Брынкушь, 3",
+        "type": [
+            "Русский бильярд",
+            "Снукер",
+            "Бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_207_13_thumb.jpg",
+        "place_link": "/ru/places/theatres/teatr-eugene-ionesco",
+        "name": "Театр \"Eugene Ionesco\"",
+        "address": "Кишинев, бул. Григоре Виеру, 11",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_468_3_thumb.jpg",
+        "place_link": "/ru/places/theatres/teatrul-fara-nume",
+        "name": "Teatrul Fără Nume",
+        "address": "Кишинев, ул. Сфатул Цэрий, 18",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_211_5_thumb.jpg",
+        "place_link": "/ru/places/theatres/natsionalinyi-teatr-opery-i-baleta",
+        "name": "Национальный Театр Оперы и Балета",
+        "address": "Кишинев, бул. Штефан чел Маре, 152",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/10/image_1092_2_thumb.png",
+        "place_link": "/ru/places/theatres/poeticheskiy-teatr-aleksey-mateevich",
+        "name": "Поэтический театр \"Алексей Матеевич\"",
+        "address": "Кишинев, ул. Алексея Щусева 93",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_255_1_thumb.jpg",
+        "place_link": "/ru/places/theatres/teatru-spalatorie",
+        "name": "Театр \"Spalatorie\"",
+        "address": "Кишинев, ул. Михай Еминеску, 72",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_208_3_thumb.png",
+        "place_link": "/ru/places/theatres/teatr-chehov",
+        "name": "Театр \"А.П.Чехов\"",
+        "address": "Кишинев, ул. Влайку Пыркэлаб, 75",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_469_2_thumb.png",
+        "place_link": "/ru/places/theatres/teatr-guguta",
+        "name": "Театр \"Гугуцэ\"",
+        "address": "Кишинев, ул.Мария Дрэган, 1",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_213_4_thumb.png",
+        "place_link": "/ru/places/theatres/teatr-likurich",
+        "name": "Театр \"Ликурич\"",
+        "address": "Кишинев, ул. 31 Августа 1989, 121",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_212_6_thumb.jpg",
+        "place_link": "/ru/places/theatres/teatr-luceafarul",
+        "name": "Театр \"Лучафэрул\"",
+        "address": "Кишинев, ул. Вероника Микле, 7",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_210_5_thumb.jpg",
+        "place_link": "/ru/places/theatres/teatr-mikhay-eminesku",
+        "name": "Театр \"Михай Еминеску\"",
+        "address": "Кишинев, бул. Штефан чел Маре, 79",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_403_1_thumb.jpg",
+        "place_link": "/ru/places/theatres/gosudarstveniy-molodezhniy-dramaticheskiy-teatr-s-ulitsy-roz",
+        "name": "Театр \"С улицы Роз\"",
+        "address": "Кишинев, бул. Куза-Водэ, 19/3",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/6/image_604_2_thumb.jpg",
+        "place_link": "/ru/places/theatres/geneza-art",
+        "name": "Театр Geneza Art",
+        "address": "Кишинев, ул. А. Матеевич, 109/1",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_209_7_thumb.jpg",
+        "place_link": "/ru/places/theatres/teatr-satirikus-i-l-karadzhale",
+        "name": "Театр Сатирикус И. Л. Караджале",
+        "address": "Кишинев, ул. Михай Еминеску, 55",
+        "type": [
+            "Театр"
+        ]
+    },
+    {
+        "img_link": "/files/places/chains/chain_image_17_thumb.png",
+        "place_link": "/ru/places/chains/andys-pizza-1",
+        "name": "СетьAndy's Pizza",
+        "address": "Заведений: 19 Andy's Pizza №1Кишинев, бул. Штефан чел Маре, 152Andy's Pizza №11Кишинев, бул. Дачия, 44Andy's Pizza №12Кишинев, ул. Алба-Юлия, 23/4Andy's Pizza №14Кишинев, ул. Мирчя чел Бэтрын, 4/4Andy's Pizza №15Кишинев, бул. Куза-Водэ, 49/1Andy's Pizza №24Кишинев, ул. Мирчя чел Бэтрын, 12/5Andy's Pizza №25Кишинев, ул. Чеукарь 2/8Andy's Pizza №26Кишинев, ул. Лев Толстой 24/1Andy's Pizza №28 Sun CityКишинев, ул. А.Пушкин, 32Andy's Pizza №30Кишинев, бул. Москова, 1/2Andy's Pizza №31Кишинёв, ул. Исмаил, 45Andy's Pizza №34Кишинев, ул. Албишоара, 80/5AAndy's Pizza №37Кишинев, ул. Ион Думенюк, 12 AAndy's Pizza №38Кишинев, ул. Ион Крягнгэ 5/4Andy's Pizza №39Кишинев, бул. Дачия, 28/1Andy's Pizza №41Кишинев, ул. Мирон Костин, 13/1Andy's Pizza №7Кишинев, бул. Москова, 6Andy's Pizza №8Кишинев, ул. Ион Крянгэ, 78Andy's Pizza №9Кишинев, ул. Каля Ешилор, 10",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1146_4_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/casa-della-pizza-chisinau",
+        "name": "Casa della Pizza",
+        "address": "Кишинёв, Михаил Когэлничану 62",
+        "type": [
+            "Пиццерия",
+            "Ресторан"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_529_5_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/celentano-3",
+        "name": "Ceretto cafe",
+        "address": "Кишинёв, бл. Мирчеа чел Бэтрьн, 4/6",
+        "type": [
+            "Пиццерия",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_885_2_thumb.png",
+        "place_link": "/ru/places/pizzerias/don-cezar-botanika",
+        "name": "Don Cezar (Ботаника)",
+        "address": "Кишинёв, ул. Трандафирилор 13/1",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1116_1_thumb.png",
+        "place_link": "/ru/places/pizzerias/don-cezar-botanika-1",
+        "name": "Don Cezar (Ботаника)",
+        "address": "Кишинев, ул. Индепенденцей, 21/1",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_921_2_thumb.png",
+        "place_link": "/ru/places/pizzerias/don-cezar-buyukani",
+        "name": "Don Cezar (Буюканы)",
+        "address": "Кишинев ул. Ливиу Деляну 1/3",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_886_3_thumb.png",
+        "place_link": "/ru/places/pizzerias/don-cezar-zorile",
+        "name": "Don Cezar (Зориле)",
+        "address": "Кишинёв ул. Каля Ешилор 8 (Зориле 3 этаж)",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_887_2_thumb.png",
+        "place_link": "/ru/places/pizzerias/don-cezar-rishkanovka",
+        "name": "Don Cezar (Рышкановка)",
+        "address": "Кишинёв ул. Думитру Рышкану 7/1",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1140_2_thumb.png",
+        "place_link": "/ru/places/restaurants/grotta-pub",
+        "name": "Grotta Pub",
+        "address": "Кишинев, Вероника Микле 2А",
+        "type": [
+            "Ресторан",
+            "Пиццерия",
+            "Паб"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1132_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/panifico-pizza",
+        "name": "Panifico Pizza",
+        "address": "Кишинев, К. Брынкушь, 110",
+        "type": [
+            "Ресторан",
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1133_1_thumb.jpg",
+        "place_link": "/ru/places/restaurants/panifico-pizza-mall",
+        "name": "Panifico Pizza",
+        "address": "Кишинёв, ул. Арборилор 21, Shopping Malldova, food court, эт. 4",
+        "type": [
+            "Ресторан",
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1115_1_thumb.png",
+        "place_link": "/ru/places/pizzerias/pizza-corso-botanica",
+        "name": "Pizza Corso (Botanica)",
+        "address": "Кишинёв, бул. Траян, 23/1",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_592_12_thumb.png",
+        "place_link": "/ru/places/pizzerias/pizza-corso",
+        "name": "Pizza Corso (Centru)",
+        "address": "Кишинев, ул. Михай Еминеску 17",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_763_5_thumb.png",
+        "place_link": "/ru/places/pizzerias/pizza-corso-1",
+        "name": "Pizza Corso (Ciocana)",
+        "address": "Кишинев, ул. Михай Садовеану 20/1",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_25_10_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/pizza-house",
+        "name": "Pizza House",
+        "address": "Кишинев, бул. Москова, 14/1",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_892_1_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/pizza-mania-baby-hall",
+        "name": "Pizza Mania (Baby Hall)",
+        "address": "Кишинев, бул. Негруцци 2/4",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_722_1_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/pizza-mania-bodoni",
+        "name": "Pizza Mania (Bodoni)",
+        "address": "Кишинев, ул. Бэнулеску Бодони, 45",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_779_1_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/pizza-mania-stefan-cel-mare",
+        "name": "Pizza Mania (Stefan cel Mare)",
+        "address": "Кишинев, ул. Штефан чел Маре 136",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_536_1_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/pizza-mania-3",
+        "name": "Pizza Mania (Исмаил)",
+        "address": "Кишинёв, ул. Исмаил, 88",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_871_5_thumb.jpg",
+        "place_link": "/ru/places/pizzerias/pizza-pepperoni",
+        "name": "Pizza Pepperoni",
+        "address": "Кишинев, ул. Друмул Виилор 26/1",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1136_1_thumb.png",
+        "place_link": "/ru/places/pizzerias/torro-pizza",
+        "name": "Torro Pizza",
+        "address": "Кишинёв, ул. Мирон Костин 25",
+        "type": [
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1145_3_thumb.jpg",
+        "place_link": "/ru/places/restaurants/il-forno",
+        "name": "Trattoria ilForno",
+        "address": "Кишинев, ул. А. Щусева, 98.",
+        "type": [
+            "Ресторан",
+            "Пиццерия"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_444_4_thumb.jpg",
+        "place_link": "/ru/places/cinema/auto-cinema",
+        "name": "Auto Cinema",
+        "address": "Кишинев, ул. М.Садовяну, 42/6",
+        "type": [
+            "Кинотеатр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_229_8_thumb.png",
+        "place_link": "/ru/places/cinema/cineplex",
+        "name": "Cineplex",
+        "address": "Кишинев, ул. Арборилор, 21 (Malldova, 4 эт.)",
+        "type": [
+            "Кинотеатр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_227_4_thumb.jpg",
+        "place_link": "/ru/places/cinema/kinoteatr-patria-centru",
+        "name": "Patria Loteanu",
+        "address": "Кишинев, бул. Штефан чел Маре, 103",
+        "type": [
+            "Кинотеатр"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1144_1_thumb.png",
+        "place_link": "/ru/places/restaurants/private-rooms",
+        "name": "Private Rooms",
+        "address": "Кишинёв, ул. Пушкина, 32",
+        "type": [
+            "Ресторан",
+            "Клуб",
+            "Кинотеатр"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_253_2_thumb.jpg",
+        "place_link": "/ru/places/cinema/kinoteatr-odeon",
+        "name": "Кинотеатр Odeon",
+        "address": "Кишинев, ул. Михай Еминеску, 55",
+        "type": [
+            "Кинотеатр"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_53_2_thumb.jpg",
+        "place_link": "/ru/places/sweet-shops/bisquit",
+        "name": "Bisquit",
+        "address": "Кишинев, бул. Москова, 20",
+        "type": [
+            "Кондитерская",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_532_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/creme-de-la-creme",
+        "name": "Creme de la Creme",
+        "address": "Кишинёв, ул. Александру чел Бун, 98А",
+        "type": [
+            "Кафе",
+            "Кондитерская"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_298_4_thumb.jpg",
+        "place_link": "/ru/places/sweet-shops/vanille",
+        "name": "Vanille",
+        "address": "Кишинев, бул. Дачия, 31",
+        "type": [
+            "Кондитерская",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_202_2_thumb.png",
+        "place_link": "/ru/places/sweet-shops/delis-danzh",
+        "name": "Делис Д'анж",
+        "address": "Кишинев, ул. 31 Августа 1989, 117/2",
+        "type": [
+            "Кондитерская",
+            "Ресторан",
+            "Кафе"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1156_3_thumb.jpg",
+        "place_link": "/ru/",
+        "name": "Cetatea Albă Răzeni",
+        "address": "Răzeni 7727 Razeni, Moldova",
+        "type": [
+            "N/A",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1142_4_thumb.jpg",
+        "place_link": "/ru/places/restaurants/teatrul-gastronomic",
+        "name": "Teatrul Gastronomic",
+        "address": "Кишинёв, Штефан чел Маре, 103",
+        "type": [
+            "Ресторан",
+            "N/A"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1151_6_thumb.jpg",
+        "place_link": "/ru/",
+        "name": "Zavoiul Nistrului Eco Village",
+        "address": "or. Soroca s. Egoreni",
+        "type": [
+            "N/A",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_544_8_thumb.jpg",
+        "place_link": "/ru/places/paintball/commandos",
+        "name": "Commandos Paintball",
+        "address": "М14, В сторону Бельц",
+        "type": [
+            "Пейнтбол"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_913_1_thumb.jpg",
+        "place_link": "/ru/places/paintball/dragon-paintball-club",
+        "name": "Dragon Paintball Club",
+        "address": "Кишинев, ул. Петрэрией 3",
+        "type": [
+            "Пейнтбол"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_545_4_thumb.jpg",
+        "place_link": "/ru/places/paintball/tactics",
+        "name": "TACTICS Paintball",
+        "address": "Кишинев, SKY LAND Camping & Resort",
+        "type": [
+            "Пейнтбол"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_393_7_thumb.jpg",
+        "place_link": "/ru/places/karting/formula-kart",
+        "name": "Formula-Kart",
+        "address": "Кишинев, ул. Пьетрэрией, 19",
+        "type": [
+            "Картинг"
+        ]
+    },
+    {
+        "img_link": "/files/places/1/image_140_6_thumb.jpg",
+        "place_link": "/ru/places/restaurants/la-roma",
+        "name": "La Roma",
+        "address": "Кишинев, ул. Албишоара, 40/1",
+        "type": [
+            "Ресторан",
+            "Картинг",
+            "Банкетный зал"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_829_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/kimbo",
+        "name": "KIMBO",
+        "address": "Кишинёв, ул. Богдан Воевод, 2",
+        "type": [
+            "Кафе",
+            "Бар",
+            "Чайная"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_538_1_thumb.jpg",
+        "place_link": "/ru/places/galleries/moldeco",
+        "name": "MolDeco",
+        "address": "Кишинёв, бул. Москова, 14/1",
+        "type": [
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/9/image_965_1_thumb.jpg",
+        "place_link": "/ru/places/cafe/murano-cafe--gallery",
+        "name": "Murano Cafe & Gallery",
+        "address": "Кишинёв, ул. Льва Толстого, 24/1",
+        "type": [
+            "Кафе",
+            "Ресторан",
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1157_3_thumb.png",
+        "place_link": "/ru/places/restaurants/muze-hudozhestvennaya-galereya",
+        "name": "Muze - Художественная галерея",
+        "address": "с. Цыпова, р.  Резина",
+        "type": [
+            "Ресторан",
+            "Музей",
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_222_1_thumb.jpg",
+        "place_link": "/ru/places/galleries/galereya-konstantin-brinkush",
+        "name": "Галерея  \"Константин Брынкушь\"",
+        "address": "Кишинев, бул. Штефан чел Маре, 3",
+        "type": [
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_223_1_thumb.jpg",
+        "place_link": "/ru/places/galleries/galereia-alexander",
+        "name": "Галерея \"ALEXANDER\"",
+        "address": "Кишинев, бул. Митрополит Г. Бэнулеску-Бодони, 41",
+        "type": [
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_226_1_thumb.jpg",
+        "place_link": "/ru/places/galleries/galereia-l",
+        "name": "Галерея \"L\"",
+        "address": "Кишинев, ул. Букурешть, 64",
+        "type": [
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/11/image_1157_3_thumb.png",
+        "place_link": "/ru/places/restaurants/muze-hudozhestvennaya-galereya",
+        "name": "Muze - Художественная галерея",
+        "address": "с. Цыпова, р.  Резина",
+        "type": [
+            "Ресторан",
+            "Музей",
+            "Галерея"
+        ]
+    },
+    {
+        "img_link": "/files/places/5/image_523_1_thumb.jpg",
+        "place_link": "/ru/places/museums/voenniy-muzey",
+        "name": "Военный Музей",
+        "address": "Кишинёв, ул. Тигина, 47",
+        "type": [
+            "Музей"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_218_1_thumb.jpg",
+        "place_link": "/ru/places/museums/dom-muzey-a-shchusev",
+        "name": "Дом-музей \"А  Щусев\"",
+        "address": "Кишинев, ул. А.Щусев, 77",
+        "type": [
+            "Музей"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_219_1_thumb.jpg",
+        "place_link": "/ru/places/museums/dom-muzei-aleksandr-pushkin",
+        "name": "Дом-музей \"А.С. Пушкин\"",
+        "address": "Кишинев, ул. Антон Панн, 19",
+        "type": [
+            "Музей"
+        ]
+    },
+    {
+        "img_link": "",
+        "place_link": "/ru/places/museums/muzei-kogalniceanu",
+        "name": "Музей  \"M. Kogalniceanu\"",
+        "address": "Кишинев, ул. 31 Августа 1989, 98",
+        "type": [
+            "Музей"
+        ]
+    },
+    {
+        "img_link": "/files/places/7/image_725_2_thumb.jpg",
+        "place_link": "/ru/places/museums/muzey-istorii-goroda-kishineva",
+        "name": "Музей Истории Города Кишинева",
+        "address": "Кишинев, ул А.Матеевич, 60а",
+        "type": [
+            "Музей"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_217_5_thumb.jpg",
+        "place_link": "/ru/places/museums/natsionalnyi-muzey-istorii-moldovy",
+        "name": "Национальный музей истории Молдовы",
+        "address": "Кишинев, ул. 31 Августа 1989, 121A",
+        "type": [
+            "Музей"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_220_1_thumb.jpg",
+        "place_link": "/ru/places/museums/natsionalnyi-muzei-etnografii-i-estestvennoi-istorii",
+        "name": "Национальный Музей Этнографии и Естественной Истории",
+        "address": "Кишинев, ул. М. Когэлничяну, 82",
+        "type": [
+            "Музей"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_216_1_thumb.png",
+        "place_link": "/ru/places/museums/muzei-natsionalnyi-khudozhestvennyi",
+        "name": "Национальный художественный музей",
+        "address": "Кишинев, ул. 31 Августа 1989, 115",
+        "type": [
+            "Музей"
+        ]
+    },
+    {
+        "img_link": "/files/places/3/image_395_5_thumb.jpg",
+        "place_link": "/ru/places/sports-various/niagara-club",
+        "name": "Niagara Fitness Club",
+        "address": "Кишинев, ул. Гидигич, 5",
+        "type": [
+            "Спорт - Разное",
+            "Американский бильярд",
+            "Большой теннис",
+            "Бассейн"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_856_1_thumb.png",
+        "place_link": "/ru/places/tennis/tennis-club-acvila",
+        "name": "Tennis Club Acvila",
+        "address": "Кишинёв, ул.Каля Ешилор, 10",
+        "type": [
+            "Большой теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_397_3_thumb.jpg",
+        "place_link": "/ru/places/tennis/respublikanskaya-spetsializirovannaya-shkola-tennisa",
+        "name": "Республиканская Специализированная Школа Тенниса",
+        "address": "Кишинев, Кока Еуджен, 59",
+        "type": [
+            "Большой теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_272_2_thumb.jpg",
+        "place_link": "/ru/places/sports-various/stadion-zimbru-1",
+        "name": "Стадион \"Зимбру\"",
+        "address": "Кишинев, ул. Бутукулуй,1",
+        "type": [
+            "Спорт - Разное",
+            "Большой теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/image_239_1_thumb.jpg",
+        "place_link": "/ru/places/tennis/tennis-club-aliten",
+        "name": "Теннис Клуб \"Алитен\"",
+        "address": "Кишинев, ул. Каля Орхеюлуй, 1",
+        "type": [
+            "Большой теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/8/image_818_4_thumb.jpg",
+        "place_link": "/ru/places/cafe/partyzan",
+        "name": "PartyZAN",
+        "address": "Кишинев, ул. Онисифор Гибу 9",
+        "type": [
+            "Кафе",
+            "Русский бильярд",
+            "Настольный теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/4/image_486_1_thumb.jpg",
+        "place_link": "/ru/places/ping-pong/stiga-club",
+        "name": "Stiga Club",
+        "address": "Кишинёв, бул. Дачия, 31",
+        "type": [
+            "Настольный теннис"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_243_7_thumb.jpg",
+        "place_link": "/ru/places/bowling/plaza-bowling",
+        "name": "Plaza Bowling",
+        "address": "Кишинев, ул. К.Брынкушь, 3",
+        "type": [
+            "Боулинг",
+            "Русский бильярд"
+        ]
+    },
+    {
+        "img_link": "/files/places/2/image_295_15_thumb.jpg",
+        "place_link": "/ru/places/bowling/rock-and-roll-bowling",
+        "name": "Rock&Roll Bowling",
+        "address": "Кишинев, ул. Арборилор, 21 (Shopping MallDova, 4 эт.)",
+        "type": [
+            "Боулинг"
+        ]
+    }
+]
